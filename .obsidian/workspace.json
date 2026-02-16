@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Journal/2026-02-16 Monday.md",
+                "file": "Areas/Writing/Blog/2026/2026-02/2026-02-16 The re-discovered country.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-16 Monday"
+              "title": "2026-02-16 The re-discovered country"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 356.5,
+    "collapsed": true
   },
   "right": {
     "id": "c90ba70d93fc53f4",
@@ -182,9 +183,10 @@
   },
   "active": "b6925aaf47d2f6bf",
   "lastOpenFiles": [
-    "Areas/Journal/2026-02-16.md",
     "Areas/Journal/2026-02-16 Monday.md",
     "Areas/Writing/Blog/2026/2026-02/2026-02-16 The re-discovered country.md",
+    "Areas/Writing/Blog/2026/2026-02/2026-02-01 February Arrives.md",
+    "Areas/Journal/2026-02-16.md",
     "Areas/Journal",
     "Resources MoC.md",
     "Projects MoC.md",
@@ -216,7 +218,6 @@
     "2026/2026-01/2026-01-02 Breakfast Bookshops and Stranger Things.md",
     "2026/2026-01/2026-01-03 The Lurgy.md",
     "2026/2026-01/2026-01-04 Recovery.md",
-    "2026/2026-01/2026-01-05 Frozen Pipes and Bullet Journals.md",
-    "2026/2026-01/2026-01-05 The Grindstone.md"
+    "2026/2026-01/2026-01-05 Frozen Pipes and Bullet Journals.md"
   ]
 }
