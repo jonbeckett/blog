@@ -1,0 +1,1 @@
+I just looked in on Google Docs, and noticed the document list has received a huge upgrade Just when I start thinking Google are guilty of sitting on their hands all the time, something like this happens.

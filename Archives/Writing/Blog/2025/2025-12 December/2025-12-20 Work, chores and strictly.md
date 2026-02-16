@@ -1,0 +1,17 @@
+It’s been a few days again. A few days since I last emptied my head into the keyboard. I’m not sure where the last week went, to be honest. Work, chores, and errands rapidly conspire if you let them - and I tend to let them.
+
+I’m trying to re-wind in my head - to remember what happened this week.
+
+Monday through Wednesday were consumed by work, and running ragged around the house during “coffee breaks” to get washing through the machine, loads through the dishwasher, and so on. I really am my own worst enemy - I can’t leave things for others to do - if I have even a minute, I’ll invariably fill it with something or other. This is how I end up emptying the dishwasher first thing in the morning while waiting for the kettle to boil. It’s also how I end up folding clothes while waiting for the kettle to boil during the day - or re-filling the washing machine, emptying the bins, or whatever else needs doing.
+
+There’s a sprint most days to get the house somewhat cleared by the time my other half gets in from work - a short window in-between me finishing work, and her arriving - then either she or the kids will cook, and I’ll be on washing up duty immediately afterwards. We try to sit down for dinner together most days, and share our day with each other. Of course nobody ever asks what I did during the day - because how do you even scratch the surface of telling them about cloud infrastructure, testing frameworks, corporate databases, document management systems, automation workflows, or whatever the hell else you’ve been submerged in all day?
+
+Just to add to all the fun, our middle daughter is recovering from surgery at the moment (ACL if you’re wondering - she has had her knee re-built following a rugby injury about six months ago) - so she’s off work for the month, and holed up in the lounge watching TV, scrolling TikTok, and building LEGO kits. She’s going properly stir crazy. On Friday I dropped work and accompanied her to a succession of hospital appointments around the county - firstly to visit a physio, then to get the staples from the surgery removed, and then a consultant to get prodded and poked at, and new X-Rays done.
+
+Yesterday was partly filled with a trip to the local rubbish dump. I took an old HP Deskjet printer, and tried to drop it at the “re-use” shop. The guy on the desk informed me that they don’t take printers - so it went into land-fill. Before you ask - I tried to give it away for months - nobody wanted it. It’s sad, isn’t it - that printers are deemed so unreliable, high maintenance, high ink prices, and usually have such poor support and compatibility, that they cannot be re-sold.
+
+Anyway.
+
+Last night we sat down and watched Karen Carney win Strictly. So pleased for her. I’ve been reading articles this morning about her journey after retiring from playing football - about her being trolled, and losing all her confidence. Something needs to be done about trolls online. Personally, I always agreed with Google+ stance - that people should use their real identity online - not be able to hide behind invented facades.
+
+We saw Karen play towards the end of her career - we have a programme signed by her, and photos of her with the girls. She was one of the most talented football players I’ve ever seen. An inspiration for a generation. Like I said - so pleased for her. In a world where the loudest, most obnoxious, and seemingly most awful people hog the headlines, it’s wonderful to see a genuinely good person do something hard, do it well, and be recognised for it.

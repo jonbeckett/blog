@@ -1,0 +1,41 @@
+In keeping with the seemingly insatiable appetite for the mundane, I present another selection of random questions with my two penneth shared...
+
+If you could change something about your home, without worry about expense or mess, what would you do?
+
+I thought about answering this by listing a carefully thought about list of the things that need fixing in and around our house - but it quickly starts to become an inventory. Therefore, the most logical answer would seem to be "If given unlimited funds, I would gut our house completely, possibly even knock it down and rebuild it". There's a long story here about the previous owners and the many, many things they did to the house... pretty much all of which we can't afford to correct.
+
+What was the last thing you bought?
+
+The last significant thing I bought was a netbook computer (that I'm writing this on). The last thing I bought apart from that was a Rothco messenger bag that should arrive through the post in a few days from Amazon. I'm experimenting with carrying less stuff around with me - and it should provide a hard-wearing, flexible alternative to anything I have at the moment.
+
+Have you ever ridden on a motorbike?
+
+If a few minutes on my brother's motocross bike when I was young counts, then yes. In any meaningful way, then no - and I've never had any interest in owning or riding one, to be honest. I'm pretty much the same way with cars too - as long as they get me from A to B, I can't see the point in spending more than required on it. This extends to everything actually - hence the netbook when we have a monster desktop PC in the other room...
+
+Would you go bungee jumping or sky diving?
+
+Already done it. I jumped from 13,000ft over Lodi, California, when I flew over for my cousin's birthday about 10 years ago. I won't do it again because I now have a family. Sure, the chances of an accident are low, but I'm never going to put my children intentionally in that particular game of chance.
+
+Do you have a garden?
+
+Yes. 100ft long, and about 100ft wide at the furthest point (it's wedge shaped - we live on the corner of a green). The garden is filled with all manner of trees and bushes, climbing frames, swings, a shed, chickens, and a W House nestled behind the huge old apple tree that dominates the far end. Next spring we are re-digging the pond that we filled in when the children arrived in our lives.
+
+Do you really know all the words to your national anthem?
+
+No. I know the first line, and the last line - the rest is a total mystery, and I have no intention of ever learning it. Not exactly a royalist by any stretch of the imagination.
+
+What is the first thing you think of when you wake up in the morning?
+
+"What time is it?", closely followed by "What day is it?". Weekday mornings begin for us at 7am, in order to feed the children, make packed lunches, get everybody ready for school, let the chickens out, and begin the walk to the children's schools (yes, we walk to school) in order to deliver them within the appropriate time window for each school. Our house runs on rails on a morning.
+
+If you could eat lunch with one famous person, who would it be?
+
+Difficult one to answer. I would probably only be interested in having lunch with somebody where the friendship we might form would be carried forwards. I'm not a huge fan of anybody in particular, so being there as a "fan" holds no fascination for me. I guess that narrows the list of famous people down to only those who are personable - fairly "normal"... perhaps somebody like Tori Amos, or Gillian Anderson.
+
+Who sent the last text message you received?
+
+Given that I tend to clear my phone out every day (inbox zero, baby), I have nothing concrete to go on. I'm going to guess at it being W on Friday, when she tried to call me and I had my phone on silent. She went off on one in response, and fired emails, SMS, IMs and all manner of other communications at me - ranting that I never pick the phone up.
+
+Which store would you choose to max out your credit card?
+
+Even though this is a fatuous question, given that I wouldn't spend money I don't have, I guess I have to answer it. IKEA. I would replace a lot of our furniture around the house. Make it more pleasent to live in. Make sure we had lots of storage space hidden in every room.

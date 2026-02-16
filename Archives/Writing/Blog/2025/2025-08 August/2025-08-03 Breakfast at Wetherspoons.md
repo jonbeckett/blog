@@ -1,0 +1,11 @@
+This morning you find me holed up in a booth at our local Wetherspoons - part of a huge pub chain that stretches across the country. I’m sitting in the booth with my laptop, tapping away, and occasionally looking up to meet the gaze of older people wandering past in search of a seat - who seem to resent my existence, because I’m here on my own, and taking up an entire table that they could have used.
+
+An elderly gentleman in the next booth keeps staring at me through the glass partition between our booths. I’m not sure what his problem is, or why he’s taking so much interest in me. I have a horrible fear that he knows about my YouTube channel - I live in dread that one day somebody is going to corner me in the street - “you’re that guy, aren’t you...”
+
+It happened to me with my blog, many years ago - back when I was “somebody” on the early internet. We were on holiday in Turkey - staying at a retreat on the south-western coast. The host of the place we were staying took everybody out for a meal in Fethiye, and while sitting among everybody at dinner he interrupted the conversation - “I read your blog today”. All of the conversation around the table stopped, and suddenly I found myself fielding questions from all and sundry. Thankfully this was back in the days before smart-phones, so nobody was able to “look me up”.
+
+Somebody at work HAS discovered my YouTube channel. I was quietly getting on with my work one morning when a call came in - my immediate reaction, as always with work, was “what have I done wrong?” - and of course he opened with “you’re that guy, aren’t you...” (He then started asking me really quite detailed questions about the engine start procedure of a particular model of turbo-prop aeroplane, but that’s a story for another day).
+
+Another old couple just passed me and glared in my direction. Who knew that sitting in a booth at Wetherspoons during the mid-morning mayhem would cause such bitterness?
+
+I better leave before I get strung up by an angry mob of pensioners.

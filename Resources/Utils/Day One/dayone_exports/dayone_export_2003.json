@@ -1,0 +1,1197 @@
+{
+  "metadata": {
+    "version": "1.0"
+  },
+  "entries": [
+    {
+      "uuid": "C594F36B-187F-407E-AEB8-264F95E2EAB2",
+      "text": "# First Real Entry\n\nI suppose \"technically\" I have missed posting an entry into this online diary for the first of January, because it took longer than 40 minutes to get the initial pieces of the PHP code working.\n\nWhat I now have is technically okay though, so I'll slowly add to it over the coming weeks (when I get a chance), and maybe even publish the project on SourceForge as an open source BLOG solution.\n\nI guess this will do for now. Obvious things that are going to be needed for the future are a \"Cast of Characters\", describing the various pseudonyms I'm going to use to represent people I know, and of course the facility to let people comment on the diary entries.\n\nWe'll see how it goes I guess.\n\nBlimey - it's nearly 1am and I have work in the morning...",
+      "creationDate": "2003-01-02T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "2967DC68-2AFB-4FAD-A8C4-24D18A2C85DA",
+      "text": "# I Hate Smoking\n\nIt's been a funny kind of day today so far - I got up a bit later than normal and got a lift into work with my infinitely superior other half (W), then figured out that the stuff I had been scared about starting was nowhere near as bad as I had originally thought (yes that's right - I'm a software developer who is scared of complex stuff).\n\nThe morning passed by pretty quietly, then I went into town with one of my colleagues - who I cannot think of a pseudonim for in this diary (he has been likened to one of the Antyll mob from Penelope Pitstop, so if anybody knows his name let me know).\n\nWe went to the \"Red Lion\" for lunch and tried out their new StoneBaked Pizzas - amazingly cheap and tasted great too. I shall have to take W there soon. Apparently on a tuesday night they have two pizzas for the price of oneis people smoking. There should be some kind of law that if somebody wants to smoke in a pub they have to pay everybody in there some money to clean their clothes afterwards - because they make everybody stink... I didn't used to notice it very much but I'm slowly getting worse and worse. When I get home I have to change my clothes usually.\n\nThen if anybody gets cancer from passive smoking in the years to come they can sue the arse off whoever they know who smokes. Quite why people blame the tobacco companies I will never know - it's the idiots that smoke that cause the problem.",
+      "creationDate": "2003-01-03T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "22CEFB1F-8CE8-4A7B-988B-A3EB617350D4",
+      "text": "# Monday Morning And I Feel Fine\n\nIt's monday afternoon and I'm sat here after having read a number of comments on my own blog from a rather colourful character who seems to have rather too much time on his hands \n\nIt really makes you wonder why some people choose to spend their free time in such a negative manner.\n\nAnywayWhat a sad thing to have as a \"skill\" on your CV - \"wallpapering\".\n\nYou can see it in an interview now -\n\n\"What other skills do you have that you feel would help in the role of thin client developer at Fujitsu?\"\n\n\"I'm quite good at wallpapering!\"\n\nHmmm... I'm hungry. Food. I must have food.",
+      "creationDate": "2003-01-06T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "0B1C92A3-0D3C-479B-A43A-5B6DCB88B1BB",
+      "text": "# Another Monday\n\nIt's another Monday and I'm back at work after a week off enjoying time at home decorating and working on the new ThoughtCafe website.\n\nSomehow nothing managed to happen while I was away, and the one call I had to resolve was very quick indeed. Ho hum. I did find out though that I'm travelling to East Grinstead first thing tomorrow to visit one of our clients. Quite how I'm going to make my work there look like half a day is anybody's guess - and I have to evade the woman there who was rather too friendly last time. Guess I should be flattered really.\n\nIt must say something about my tired state that I cannot think of anything ludicrous or stupid to write about (normally I'm a fount of stupidity).\n\nOff to surf the web for the rest of lunchtime I suppose...",
+      "creationDate": "2003-01-13T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "21B85EBC-70FF-428A-8A62-4561A09AC498",
+      "text": "# Tired And Bored\n\nIf anybody that reads this is wondering why there is such a huge gap between entries, it's because I've just been so damn busy!\n\nI've just completed the principal development work for a contract at work, and need to test it thoroughly this afternoon (booooring). I've been working on it since just before Christmas, and I'll be pretty glad to get it installed (next Tuesday!) and see the back of it.\n\nAt home of course I have been working on the replacement for ThoughtCafe, and have imposed something of a deadline on myself of this coming Sunday. So far I've worked about 20 hours on it this week during the evenings... last night I was up until 2am.\n\nIt's so dangerous at the moment - every time I get past one section of the development, I realise I could have done a previous section a better way. I'm going to have to draw the line from this point until \"go live\" and just get it out the door - I can re-code things later.\n\nW just called to tell me the laptop at home has packed up - I'm hoping it isn't terminal. Sounds like an overheating problem (it froze), so finger crossed on that one. If we have lost it we can't afford a new one for a long time - we have too many debts at the moment.\n\nThis post seems very \"bitty\" today, doesn't it... I guess I have too many things on my mind.",
+      "creationDate": "2003-01-22T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "DD3D235E-868A-4C5A-B024-1BA4DDFA1C36",
+      "text": "# On Site And Using The Web\n\nToday has been a long day already.\n\nWe finally got to bed last night at about 2am (again), and I had to get up to catch the 7:15 train out of Marlow to visit a client site. I woke up with the alarm at about 6am, then tried desperately - in vain - to slow time down.\n\nI finally got up and just got out of the house in time to catch the train. Arrived in Swindon a bit early, so grabbed a coffee from a place near the station before arriving on-site.\n\nI have to admit I was a bit apprehensive today - the customer has screwed their system, and I am here to fix it. The blame is pretty squarely at their doorstep, but how do you tell them that? You don't. I was presently surprised to find everybody welcoming and congenial - made the whole day a lot better.\n\nIt turned out they really had screwed the system, but weren't about to admit to it. I therefore just went through the motions of checking everything and putting things back how they should have been... they appear grateful at least.\n\nNow I have to test the system out throughout the afternoon and see what happens to it...\n\nGod, it's going to be 9 oclock before I get home...",
+      "creationDate": "2003-01-23T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "3056DFC9-9EA6-470C-A777-C38E18FB5222",
+      "text": "# Forging Ahead With Tc\n\nAfter a week of concentrated effort, the new ThoughtCafe site code is becoming more stable, and the bugs are falling out as I work on it.\n\nIt's nice to finally be working on a running project with Linux, MySQL and PHP. The difference in stability and performance over Windows cannot be measured - we were getting two or three server failures a week with Win2K, and so far we have not had a single problem.\n\nTonight is going to be fun - the domains have moved around for both TC Evo and the old ThoughtCafe site. I wonder how long it will take (with ADSL) to move everything...",
+      "creationDate": "2003-01-31T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "D1B5E127-A466-4466-BD85-E92C4FFBD5BA",
+      "text": "# Dead On My Feet\n\nAfter pulling a late nighter working on my website last night, finally getting to bed at about 2:30, the tiredness has really hit me this afternoon.\n\nIt's like somebody has suddenly hung very heavy things off my eyelids or something.\n\nThe ThoughtCafe website appears to be doing quite well (shocking!). I sent the newsletter out last night - the cause of the late night. It went to just over 2000 people. I had to switch off Norton Antivirus because it blew up while recieving the piles of outgoing emails.\n\nActually, I was a bit annoyed last night - I was planning on doing the newsletter in Adobe Acrobat format (printing from PagePlus). It decided (like Windows programs do) to blow to pieces every time I tried to print to Acrobat. Finally at about 1am I gave up and did the newsletter in HTML format.\n\nThe temptation to run around on the green outside the house shouting obscenities about Microsoft was sorely tempting.",
+      "creationDate": "2003-02-04T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "9D879FC5-34B1-44F7-A5EE-17E75B4C0716",
+      "text": "# Tired And Bored\n\nI'm sat at my desk this afternoon after being in and out of the office for the last few days, and I don't really know what to do next...\n\nIt turns out, after a mad scramble to get several of the projects out of the way that I am now effectively free from any specific work until late March... figure that one out.\n\nI have to admit that when I first found out my mind immediately jumped towards making my own workflow or document management system. The reasoning behind this goes back to the last few projects I've worked on - when we wanted a particular level of functionality, but to do it we had to have complete overkill.\n\nIt's tempting to start work on a workflow solution in the same way that it's tempting to work on a chess engine - it's a deceptively simple piece of programming that becomes incredibly complex under certain situations.\n\nAaannyyyway - Darth Vader just turned up at my desk with the CD of a new version of some software to try out. I can't see it being a problem, but you never know...\n\nI'm bored. I'm tired. I want to go home.",
+      "creationDate": "2003-02-11T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "6637CD77-E9EE-485B-B358-C594483461D1",
+      "text": "# How Many Hits\n\nSince opening the source code for this noddy little bunch of scripts last night, I've been somewhat taken aback by the number of apparent visitors into the page.\n\nI had no idea hotscripts was such a popular site - that so many people checked it out every day (or perhaps I was lucky?). It reminds me of when cool site of the day listed ThoughtCafe a couple of years ago - 3000 hits overnight.\n\nToday was a bit of a nightmare actually - trying to reply to questions about this while also getting on with my normal work. A couple of the other developers in the office took a look and pointed out some shortcomings that I knew were there but hadn't bothered to code properly yet \n\nI guess by the end of tonight the Blog scripts are going to be pretty solid if I pick at them. What's really needed I suppose is some good documentation and version control from this point forwards...",
+      "creationDate": "2003-02-12T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "80A235A6-DF51-42B0-B387-17574068A81D",
+      "text": "# Opening The Source\n\nI finally did it - I opened up the Blog script to the community.\n\nThis morning (while I'm supposed to be working on commercial stuff) I had a crisis of conscience, and re-wrote a lot of the PHP behind BLOG to ummm... urrr... make it a bit more professional and stable.\n\nSome of the code to do with having no entries has not been tested, but I'm sure people will tell me if there's anything wrong.\n\nIt's strange to put a script out as \"Open Source\" - a new experience for me. I'm so used to working in the commercial \"closed source\" world.\n\nI suppose the next thing to add to the blog system will be a calendar with dates hilighted that have entries...",
+      "creationDate": "2003-02-12T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "36B6C30F-DF44-4CB7-BB6C-28EBA3CB9571",
+      "text": "# Calendar Feature Added\n\nI just spent most of the evening adding a calendar feature to the script.\n\nIt has meant the script is now nowhere near as simple as it once was - because a multitude of options have to be catered for according to what the user has clicked on.\n\nHopefully the code still makes sense though, and the BLOG homepage has the ZIP file with the changes in it for download.\n\nThe calendar itself was quite interesting to code - I've never done one before and it turned out to be a lot easier than I expected.\n\nEnjoy, and feel free to leave any comments here!",
+      "creationDate": "2003-02-13T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "8C6B32FB-C2F1-490B-A676-8EA279FD8601",
+      "text": "# Its Valentines Day\n\nIt's valentines day and I was planning on leaving an hour early to pop into town and pick up some flowers and ingredients for tea... except my project manager has just veto'd that. How \"jobsworth\" is that? I suppose I should resist having a complete rant in case the offending idiot reads this.\n\nOne lousy hour... and after all the times I've stayed late to do things. The official reason is that we need to ensure help desk cover. Crap isn't it.\n\nTherefore I have to either leave here at lunchtime, buy everything, bring it back to work and then take it home again, or race home and buy the last crappy flowers in the shop...\n\nI should shut up before I really start...",
+      "creationDate": "2003-02-14T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "BA57711F-22BC-447F-A4BD-24C9B6B10203",
+      "text": "# Sleepy Saturday\n\nWoohoo! I cooked dinner last night and it was great (I didn't poison W!!). We had Chilli, made with Quorn mince (veggie substitute - W doesn't eat meat), kidney beans, tomato puree, chopped tomatoes, onion, peppers and garlic. I got the amount of \"Lazy Chillies\" just about right... kind of a kick to it but not enough to burn your mouth out  It tasted amazing and I couldn't quite believe I cooked it.\n\nThis morning I am in some kind of weird \"awake but asleep\" mode. It's nearly 11:30 and I'm still sat here at the computer wondering what I'm going to spend Saturday doing. I'd love to get Sendmail working on the Linux computer, but don't really want to prat around with it until I have an ADSL router for the network (yes, I am sad and have a network at home).\n\nI was reading about Mandrake (the Linux distro people) on the web yesterday lunchtime - appears they are in quite a bit of trouble with finances. It's making me wonder if I should start looking around at other distro's... I guess that could be my mission for the day. Redhat is a bit too corporate and boring for me, so it will probably be a weird one.\n\nAaaannnyyyway - I can feel the coffee pot calling me ",
+      "creationDate": "2003-02-15T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "2E4FDB96-1E63-4E2A-BC32-2374A2ADF30F",
+      "text": "# Windows Free Zone\n\nWoohoo!\n\nAll the computers in the house are now running Linux... goodbye to crappy old Windows. To be honest, I have been running Windows for a few years at home (and still have to at work), but have been patiently waiting for the day when Linux would be useable as a desktop operating system (I'm talking about Utility here).\n\nI've been playing with recent distro's at work for a while, and they have been pretty good, which has led to me now running a Linux partition on each and every machine in the house - the Linux server of course knows nothing else, but then it only has WindowMaker on it, along with Apache, MySQL, PHP and Samba...\n\nI must sound like I'm burbling. It's very late I suppose, and I'm just pleased to have got the main machine with the internet connection to connect through Linux. I thought I was going to have problems, but evidently it's all working out of the box \n\nHoorah! I say.\n\nWhat else happened today? I bought the new WRC Rally game for the PS2 (well, it's not new any more, but I tend to read all the reviews these days before buying a game). I had a quick go on it earlier, but I expect I'll wait until the week to try it properly.\n\nTomorrow we're out at W's Mum's and my Brother's, so it's going to be a busy Sunday... christ - it's gone 1am... I must be mad.",
+      "creationDate": "2003-02-16T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "B783AFED-19B1-463A-A397-1A528FD572F3",
+      "text": "# End Of Another Day\n\nIt's getting near the end of the first day of the week (and as the HR department helpfully pointed out, a fifth of the way towards the weekend).\n\nI just seem to be drifting along at the moment, not really having any interest in computers, the net or anything really. It must be the natural reaction from having spent every waking minute with them over the last few days... setting up Linux servers can be brain draining at the best of times.\n\nI have so many things to learn - it all seems to be such an up-hill battle too. I've been putting books on my wishlist at Amazon, but they are so expensive. There are so many of them too - SendMail, Samba, Apache, SMB, HTTP, Bind, Regular Expressions... the list goes on. I know a fair amount about each of them, but have so many questions still to answer before I'll really be confident in doing things with them.\n\nAh well. Can't conquer Rome in a day as they say. At least I've figured out Apache, MySQL, and PHP. They turned out to be the easy side of the setup though...\n\nI'm too tired to type this. Enough!",
+      "creationDate": "2003-02-17T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "DF80EB6E-3FD1-4076-91B5-6EAF44AF4844",
+      "text": "# Drifting Along\n\nI'm bored and trying to think of what to write.\n\nLet's describe my desk...\n\nOn the far left is a bendy lamp, and a cordless BT phone just like everybody else has. It has an answerphone on it too. Next is a CD-ROM and the left hand speaker for the main PC, then a pot plant (which is just about past it's sell-by date). Next is a flat bed scanner, and sat on top of it is W's filofax. She'll be looking for that in the morning.\n\nIn front of the scanner (and by my hand) is the O'Reilly \"SQL in a Nutshell\" book. Down the side of the monitor is another lamp, a webcam, and a weird Alien pen holder thing... oh, and there's a digital clock from ATG. Under the SQL book the Mandrake distro CD-ROMs are hiding.\n\nThe Daewoo monitor is next, adorned with sticky notes, and to it's right is a subwoofer and a bottle of shower gel, a block of sticky notes, and a calculator. Then there is a desk tidy (overflowing with junk), another speaker, and the monitor, keyboard and mouse for the Linux server.\n\nIn front of the keyboard for the Linux server is W's British Census CD-ROM folder, and a pile of mouse-mats from where I work...and an orange hilighter pen.\n\nWow, isn't this exciting... what on earth did I do today?\n\nToday has been a \"drifty\" kind of day. I took a Linux book into work with me to crack something I've been picking at for days (sendmail), and ended up spending most of the day piddling about with Word and Excel on a number of quotes and estimates for upcoming projects.\n\nI will admit to having a quick game of \"Speedball 2\" on the gameboy advance at lunchtime, but these things are allowed, aren't they? \n\nLast night I had my first real go at WRC2 Extreme on the PS2 - and found out that it's all rather easy - well, either that or I have some kind of innate ability with racing car games. I somehow have managed to win the Monaco and Sweden rallies without every playing the game before... I won monaco on the last stage of the last day by a few seconds, and walked away with Sweden after being half a minute faster on the first stage than anybody else... go figure.\n\nTonight W is busy playing \"Shisenso\" or something on the laptop (running Linux remember), and I'm busy pratting about not achieving much at all.\n\nIs my life becoming boring or what?\n\nFor those that are intested in the banal tripe I put in this blog, tonight I had pasty, beans and chips for tea. Amazing stuff. Exciting. Riveting.",
+      "creationDate": "2003-02-18T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "F7E15219-888A-4D23-9CCC-3E29AFD8CEFF",
+      "text": "# A Rather Busy Day\n\nToday was one of those days that started out quite quietly and got faster as the day went on.\n\nIt all started with a big problem getting out of bed this morning. I swear that some little demon or other had removed all will to get up from my brain a few moments before I woke up. For some reason I recall having a really good dream too, but it escapes me what on earth it was about... can't have been that exciting then.\n\nWork started quietly too - starting the programming on a new project. Things rapidly twirled out of control however (as they usually do) when a help call came in - and then another help call came in on top of that.\n\nThe rest of the day was spent trying to explain to my project manager a problem with the system HE wrote the technical specification for, so really he SHOULD have understood what was going on. I ended up writing him the text for HIS email to the client... go figure.\n\nI really am starting to wonder if the office I work in really is the one from the dilbert comic strip. At times the likeness is scarey.\n\nLater in the afternoon the second help call turned into a change request which I probably have to implement next week... but of course in between I spotted an email from my project manager to the client telling them I'll be visiting on Friday to install some changes to their system - surely he knows I haven't coded the changes yet? Surely he realises he hasn't told me to do it yet? I'll leave it until mid morning tomorrow to ask him \n\nAaannnyyyway - I just finished fixing some bugs on ThoughtCafe, and am thinking about going to bed now. Tonight has been a pretty quiet night of telly watching and pratting around on the net. Ho hum. What a boring life I'm leading at the moment (I believe I've said that this week already).\n\nI do hope all you people out there in internet land have better things to be doing that reading this.",
+      "creationDate": "2003-02-19T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "2717BCF2-05C3-4EE4-88CC-9EFB4D8D4EF5",
+      "text": "# Pausing Between Reboots\n\nToday I am at work and I'm not really sure why. I feel like crap (I did all weekend), and can't really concentrate properly.\n\nI had Friday off work and sat at home wondering what to do with myself, but not having any energy to get up and do anything. It's the first time I've had a virus in ages actually (he says looking for some wood to touch).\n\nThe whole of Saturday and then Sunday morning was pretty much taken up with tidying the house up (i.e. go to the tip or jam stuff in the loft), then last night I attempted to get the Linux server up and running properly.\n\nI'm trying to make one machine connect to the internet, as well as act as a router for the network at home, and perform DNS, DB and File serving functions. It's kind of getting there, but for some reason it just won't connect to the net - I think it's because I've arsed the connection sharing up (I tried out the mandrake wizard).\n\nAh well. I'll take it apart tonight and see where I get with it doing things manually.\n\nW's out tonight at her reading group, so I get the whole evening to basically kick my heals and do what I like. Normally this would be a chance to buy lots of Pizza an beer, but I'm kind of Pizza'd out at the moment. Perhaps I'll pop in somewhere on the way home to get something to eat.\n\nAnyway - work goes on in the office - I'm preparing a virtual machine to do a change request on somebody's system. It's taking ages because the machine needs Win2K Pro, SQL 2K, E-Work and FileNET Panagon installed... kind of a rebooters dream \n\nLater...",
+      "creationDate": "2003-02-24T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "2522EB15-4D72-42EC-8791-2E057DA806AA",
+      "text": "# Pizza And Beer Rule\n\nToday is a good day.\n\nToday I solved problems. I finished tasks. I walked to work in the sunshine. I ate Pizza. I drank beer.\n\nToday is indeed a good day \n\nYou know, it's only after you've felt like sh*t for a few days that you realise how good it feels to be healthy again. This morning I left the house and walked to work (mainly due to my mountain bike's imploding rear hub tricks the other night) in the sunshine. The sun was shining, the birds were singing. Winnie the Pooh would have said it was a \"hummy kind of day\".\n\nThis evening I'm kicking things around on the internet and basically having a laugh. W's sat in the lounge playing \"The Sims\" on the laptop. We really are the geek family from sad-city \n\nLet's have a count-up. Two desktop machines in here - one configured as a Linux server and networked to the one I'm using. Over on the side is an old(ish) laptop which gets upgraded tomorrow if the bits arrive, and of course W has the shiney new laptop to play the Sims on. Across the hallway lies gaming nirvana - a SNES, a Megadrive (Genesis), a PS2 and a Spectrum Plus lie in wait for mammoth gaming sessions....\n\nI feel good. The world feels good. And ThoughtCafe seems to be running well ",
+      "creationDate": "2003-02-25T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "8BDCFC68-17C8-4E0D-A667-1077239006E1",
+      "text": "# Emulators Rule Today\n\nLast night I installed ZSNES and KEGA on the laptop at home (along with several hundred ROM images downloaded from alt.binaries). Oh what fun I had... well, I did once I got the USB gamepad working with the damn thing.\n\nGuess who didn't read the instructions, and pluggedout the gamepad in before installing the drivers for it? Hahahaaaa - and then guess who had to remove it all and start again \n\nWhen I did get it working the next conundrum was setting the button layout up to match that of the consoles mentioned - which would have been a lot easier if I could have been bothered to get off my backside and go fetch one of the real controllers from the other room.\n\nIn the end I got it working, and played a couple of levels of Super Mario World, and was quite amazed at how close the emulation is to the original machine - the same goes for Sonic 3 on KEGA.\n\nLong live emulatorsto play on laptops ",
+      "creationDate": "2003-02-28T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "661CE92A-5F30-4E91-9CB7-D55A04EF4A73",
+      "text": "# One Hell Of A Week\n\nThis week has been like walking in treacle... whatever that might feel like!?\n\nOn Monday I was 30 years old. We went to London for the day because I have always wanted to visit the British Museum. It was a fantastic day out - first stop in the morning was the Tate Modern (gallery), which we got to via the new \"Millenium Bridge\". Do I have to admit to being really sad and thinking it's design was brilliant?\n\nNext stop (at lunchtime) was the British Museum. As I said - I've always wanted to visit it, but the chance had never really cropped up. We walked in and immediately headed for the restaurant for something to eat (and the food was great), then shot off to look at the amazing things they have there.\n\nThree hours later (and after seeing relics of Egypt, Turkey, Iraq, Greece and Rome, I came to the conclusion that while the relics are amazing, the entire building amounts to nothing more than a collection of stuff \"Great Britain\" has managed to get away with nicking from the rest of the world.\n\nThe picture formed in my head of our ancestors arriving in Greece at some point in the 1700's, spotting the magnificent Parthenon, stripped it, then left, leaving behind something that looked like a badly built Ikea unit...\n\nWe left London at about half five, hoping to arrive home in time to meet W's Mum and Dad in town for a pub meal.\n\nLittle did I know that for months (since before Christmas) my wife had been organising a surprise birthday party for me... I walked back into the house with W's Mum and Dad with their coats on ready to go out, and BANG - on went the lights and the party poppers... 50 people jump out from the various rooms of the house....\n\nNeedless to say an amazing time was had by all, and I can never repay my wonder wife  Apparently she had been stressing out for days about the final planning (along with a few of our friends).\n\nI of course had no idea at all. I must be the most innocent, gullible pillock in the world.\n\nThe rest of the week has been a complete drag, but that's another story.",
+      "creationDate": "2003-03-06T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "EA07C275-544B-45E1-BAB6-362D6C1510E7",
+      "text": "# Vogon Constructor Fleet\n\nWe've just been messing around in the office (trying not to do any work) and I came up with the following rather stupid sketch...\n\nIf you are sad enough to be a fan of \"Hitch Hikers Guide to the Galaxy\", you might see the funny side of comparing the US Air Force to a Vogon Constructor fleet... picture the scene...\n\nUS Warplanes appear flying over Bagdad...\n\n\"This is the United States Air Force speaking. Bagdad is going to be destroyed in 6 minutes to make way for a new country which we will help form and re-sell our arms to in order to repeat this destruction in 20 years time. Warnings have been circulated in the national news services of every country for the last 10 years so you have no excuse. Bombing will commence in 5 minutes 32 seconds. Thankyou....\"\n\n(closely followed by the southern sounds of Dubbya drifting through the halls of the white-house as he loads up the real time role-playing-game on his PS2 called 'United States President' - \"Lock and Load....\" )\n\nThen later in the day, Dubbya is surveying the results of his work in front of the huge screens at Norad...\n\nDubbya : \"Damn it boys, your version of my game has much better Graphics than mine - why the hell is that? Why don't I have it?!\"\n\nNORAD staffer : \"Ummm... Sir... those are live feeds from the geo-stationary satellite.\"\n\nThe staffer then realises that Dubbya doesn't have a clue what he's talking about...\n\nNORAD staffer : \"This is a newer version of the game Sir.\"\n\nDubbya : \"Can I get it for my PS2 too?\"\n\nNORAD staffer : \"I'm afraid not sir\"\n\nDubbya : \"Shit... you even have bigger TVs too... can I have a go next?\"",
+      "creationDate": "2003-03-10T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "24223D6E-79F1-4997-9308-F7A5834A780B",
+      "text": "# Avoiding Work\n\nIt's Wednesday morning and I'm avoiding doing too much this morning - even though I have a quite a few things to do. For some strange reason, even though I have ten interesting things to do, they are not quite interesting enough.\n\nMessing aroung with Linux - now that's interesting. Some might argue that it's geeky, but now I am 30 I can give in and become a true geek. There. I've said it. Hehe - perhaps now is a good time to let on that my other half bought me the think geek \"No I Will Not Fix Your Computer\" T-Shirt for my birthday...\n\nWhat else have I been up to the last few days? I put an advertising banner on ThoughtCafe yesterday (to see if anybody would react to it). Nobody has said anything yet, so I'll have to wait and see.\n\nOh - one last thing - I won two races on TOCA Race Driver last night  I am the master ",
+      "creationDate": "2003-03-12T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "59DF8B1A-75BD-4374-82B6-FEA0218F7450",
+      "text": "# An Up And Down Week\n\nIt's been the kind of week you don't like to have too often. Loads crammed into it, and not really enough time to take stock properly.\n\nThis morning a help call came in for a customer, and while looking at their workflow system I discovered a huge bug in it (let's call it an oversight on my part). Therefore the development plans for the day went well and truly out of the window. It's sorted now though, so I am once again \"the man\" \n\nIt's not 5:30 yet and here I am typing stuff into this... shock horror...",
+      "creationDate": "2003-03-21T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "DC79BE8D-E7D0-4572-A2EB-CCEA09F57C64",
+      "text": "# Mexican Cheese Sandwiches\n\nWe now have only two days before we go on holiday, and I'm really looking forward to it. We're off to the \"Firth of Fourth\" in Scotland - we will be staying in a little fishing village called St. Monans. I have never been to Scotland before so it's something of an adventure - and I've made a mental promise to myself not to take any kind of computer equipment with me.\n\nThis holiday is going to be all about having a \"real\" break. The biggest decisions at the moment are what music to put in the car for the journey, and which books to take with me to read while we're there.\n\nWe've hired a small cottage in the village - our main reconciliation towards normal life was that we shouldn't be either too far from a pub, or too far from a grocery shop - they had to be at least in walking distance (couple of miles maximum).\n\nSometimes you just need to break away from the normal routine and find yourselves again, don't you - and myself and W haven't done that for a long time. Not since we went to Wales last year. These breaks are turning into our present to ourselves each year \n\nAnyway - I have work to get on with so I'll sign off until probably tomorrow, by which time the ironing and packing will be in full swing.\n\nScotland here we come!",
+      "creationDate": "2003-03-26T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "119E3C97-DE66-408A-84F1-277FD504E6DD",
+      "text": "# Holiday Blues\n\nWe got back from our holiday on Saturday night - after a nine hour drive from Scotland. We took it in turns to break the journey up, which worked quite well. W insisted on taking over from me on my last stint though - I was tired, making mistakes on junctions, and becoming quite dangerous probably  I did have to negotiate getting us out of Edinburgh the previous day though, which is probably enough to stress anybody out.\n\nScotland was wonderful - we're definitely going to go again, but maybe to a different area (I don't know if you're the same, but I don't understand people who go on holiday to the same place all the time).\n\nNext year we're already thinking of going to Ireland, so in preparation I'm reading \"Round Ireland with a Fridge\" by Tony Hawks - and so far it's very good - one of the funniest books I've read in ages.\n\nAnyway - better get on with doing a few things around here I suppose - back later!",
+      "creationDate": "2003-04-08T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "ABF28951-3B33-419E-90C5-05ABBA72B3CE",
+      "text": "# I Need Sleep\n\nLast night I got in from work, tidied up a bit, then spent most of the evening installing a computer for a friend (well - an hour or so). I think the computer may have fallen off the back of a lorry, so was a bit worried about what I might find installed on it. In the end my fears were unfounded - it had been wiped completely clean - no structure on C drive even.\n\nAnyway - after W got in from work, I got on with the usual routine of tea, and then we dropped the computer off at it's real home \n\nLater when we got back I had a go on \"Jak and Daxter\" on the PS2, and managed to get through a bit that's had W stuck for weeks - much to her chagrin. Then it was on to TOCA Race Driver to win the championships, then a quick blast on Vice City  Spent most of the time messing around looking for hidden packages.\n\nWe suddenly realised while I was playing this that it was 1:30am so packed it in - and then of course I overslept this morning. Well done Jonathan.\n\nAnd here I am sat at my desk at work, at 10:30 (I did get here for 9am in the end), on my second coffee of the day, typing this complete and utter bilge into the blog.\n\nThere must be more to life than this?",
+      "creationDate": "2003-04-09T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "BA504240-34EF-42BA-927C-C9B61E10D4C8",
+      "text": "# Back In The Office Again\n\nIt's lunchtime, and I am back in the office at work once more.\n\nMonday and Tuesday of this week I was working on a client site in East Grinstead - way across the other side of the country. The journey each day was definitely NOT fun.\n\nThe outward bound trip (on the train) was something like Marlow, Bourne End, Maidenhead, Paddington, (then on the tube) Victoria, (then on train again), East Grinstead.\n\nThe homeward trip was East Grinstead, London Bridge, (on the tube), St Johns Wood, Baker Street, Paddington, (back on the train), Maidenhead, Bourne End, Marlow.\n\nLuckily I didn't have a long wait at any of the train stations, but last night I got as far as Maidenhead on the way home and was totally fed up so jumped into a taxi for the final leg home.\n\nBack at work things are going pretty well. I'm still a bit stuck on what I'm going to come up with for a logo (freelance work I've become involved in). I'm thinking that to beat the other competitor I need to come up with a whole brand image - not just a logo. If I only come up with a logo, I may have problems integrating it into a webpage design. We shall see!\n\nThe last two days have basically seen no development of my webpage either, which is a bit of a problem - tonight is going to be a bit of a slog.\n\nAAANNYWAY - be sure to check out the BLOG discussion forum that now exists on www.pluggedout.com/forums",
+      "creationDate": "2003-04-16T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "E38CCF46-C9B4-4FB5-AFEA-0591625E9848",
+      "text": "# Why Are Fridays So Slow\n\nI really should try and update this Blog more often. It looks better when there are more entries \n\nThe last few days have been something of a joke with regard to my internet presence. I have been working on-site a lot, and the internet connection at home has been dead - with the reasons best known to the BT ADSL engineers.\n\nSomething of note has happened this week though - some interest has been shown in the old LDMS system I started developing last year. I've started taking it out of mothballs and there is now a discussion forum for it at the PluggedOut Forums.\n\nLDMS was intended to be a thin client Linux document management solution, but the development of the ThoughtCafe project swallowed up and the development effort, and eventually the code was folded completely into ThoughtCafe.\n\nAnyway - other news this week is myself and my better half have joined the Gym in town - Gold memberships no less! I have to trog off down there on Sunday morning at 9am for my \"induction\". This was all kicked off when I stepped on the scales the other weekend and discovered to my horror that I appear to be developing my own gravity.\n\nI wonder if you are heavy enough, that time slows down for you?",
+      "creationDate": "2003-04-25T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "3EC456EB-8B04-41BD-BD6B-70584B7F0ECB",
+      "text": "# First Day At The Gym\n\nThis morning I had my \"induction\" session at the gym in town. I won't say I was exactly nervous (never having been to a gym before), but I was certainly aprehensive.\n\nThe session started with a chat with my instructor to go through my past history, and what I wanted to achieve, then I spent about 90 minutes going around the various machines, being shown what to do, and the instructor trying to figure out what I was capable of.\n\nDuring the visit I had my first ever go on a running machine and was pleasantly surprised at being able to run on it straight away - for some reason I thought I was going to have real problems, but in the end I found it easy.\n\nThe only real after effects I have are in my arms - my arms are nowhere near as strong as my legs, due to a lot of cycling. I think I'm going to have to do a lot of work to get them anywhere near the level of my legs... ah well \n\nThe main goal (apart from getting fit) is just to get into the routine of going to the gym. I have never done any regular organised fitness activity (unless you count playing badminton with the company I used to work for), so the main thing is to see if I keep at it.\n\nAnyway. It's Sunday, and we still have no ADSL connection at home - therefore the pluggedout website is stalled and this posting is reaching the net via a laptop dialup connection.\n\nOh - good news for the day is that the TV I used to have the PS2 connected to isn't broken after all, so the games room is back in operation once more.\n\nI think that will do for now!",
+      "creationDate": "2003-04-27T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "BBDE93B8-E10C-4C86-9C29-99C7356D7E1C",
+      "text": "# My Arms Are Killing Me\n\nI suppose I should have expected it, but my arms are absolutely killing me since I went to the Gym on sunday morning. Okay - it's two days later, and people always say that it's the second day the pain will show up, but I was pretty sore yesterday so thought I had got away with it.\n\nAt least if this is the worst of it, I can relax a little after today. I was hoping to go to the gym on Wednesday evening, but if my arms are still sore I'll have to postpone that and probably wait until next Sunday to go.\n\nThe down-side to all the pain is I can't concentrate on my work at all. It's a bit of a nightmare to be honest.",
+      "creationDate": "2003-04-29T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "08A93C03-7579-45B9-B52C-83999ECC7247",
+      "text": "# When I Get Time\n\nThe last week or so has been manic, but in the midst of working on-site, having a never ending stream of visitors and helping do work on the garden, I have somehow managed to keep up the regular visits to the gym.\n\nAnyway - I'll add more here over the next day or two to fill in what I've been up to.\n\nRegards...",
+      "creationDate": "2003-05-06T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "AB8DC5F4-3C19-4B5B-9859-6C8200AF6908",
+      "text": "# Work Work Play Play\n\nToday I am relaxed. I wouldn't say the work I have been doing is easy, but it's not exactly difficult either. I'm writing a migration program to turn a datafile and several tens of thousands of single page TIF files into multi-page TIF files and meta-data files. The visit to client site to push the files into their document management system isn't until next week.\n\nAlongside work I've been playing with Linux again on my old laptop. It says something that a 366Mhz P2 with 64Mb memory can run Linux, Apache, MySQL, PHP , XWindows and Mozilla without any trouble. Talk about a portable development platform \n\nMeanwhile, the new laptop at home is being hogged by my other half who is playing \"Heroes of Might and Magic\" (that I got on a budget label last weekend for her). People think I am the computer game nut, but being honest it's the other way round - she plays the games, I fiddle with the techie stuff. I guess I really am a geek \n\nIn the absence of a chance to go to the gym this week (due to lots of visitors basically), I'm going to go down there tonight after work. Last night I had a bit of a session on the exercise bike and ab trainer at home, but it's not the same. You don't get to see fit women in Lycra either \n\nAnyway - better get on with my work!",
+      "creationDate": "2003-05-09T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "F09C4EAB-72AF-4F8C-BEC6-2E8B37971C76",
+      "text": "# Long Time No Write\n\nThe last couple of weeks have been pretty busy for me (hence no entries in this blog).\n\nIn between visiting customer sites in East Grinstead, Amersham and Hillingdon, I have been working away on helpdesk calls and new development for a number of projects. To be honest, it's getting a bit silly - I can't remember the last day I worked on one project. I find myself juggling five balls all the time, which can't be good for stopping mistakes and so on.\n\nI've found myself playing chess once more! Following a night setting one of my friends up to play chess on the internet, I've played a few games myself and been soundly beaten in just about every game. I used to be quite good at chess, but not any more by the looks of things.\n\nAnyway... thought for the day I suppose... I was travelling home on the train yesterday from East Grinstead (place Patrick Moore was born by the way), and noticed on the London Underground that hardly anybody on the train was wearing a wedding ring. I don't know why I noticed, but it just seemed strange - and so many of the people were in their mid 30s too. Perhaps the world is changing?",
+      "creationDate": "2003-05-21T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "1FE45CF4-7531-4A4D-8AD8-5D047EEA79C4",
+      "text": "# Camping Is Great\n\nWe went camping over the weekend (and I had yesterday off - 4 day weekend \n\nWe stayed on a campsite near a village called Priddy in the Mendip hills (south west England), not far from Glastonbury and Cheddar. On Friday the weather forecast said we were going to experience something along the lines of fire, brimstone and thunderbolts, but in the end we had pretty fine weather every day.\n\nIt's funny - on the way down I was warned that Cheddar (famous for it's \"Gorge\" and \"Cheese\" I suppose) was going to be a let-down. Boy was everybody right. Cheddar consists of some pretty boring public-access caves, a pretty large cutting through the hills with a dangerous road, three hundred tacky gift shops, and thirty thousand old age pensioners getting in everybody's way.\n\nTo say I was mildly annoyed by the time we'd spent five minutes in Cheddar was an understatement - although the weekend did get better from that point forwards.\n\nOver the next couple of days we went walking both into the Mendip hills, and to visit Glastonbury Abbey and Tor. The Mendips were quite good and we made it to the top of the highest hill - not exactly in the same bracket as Scafell or Blencathra in the lake district, but it's a pretty big... ummm... hill.... really. You can see Wales from it \n\nGlastonbury Abbey was quite interesting - even if for it's size rather than anything else. An interesting plaque 50 yards from the high alter tells you that it was \"said to\" be the burial place of King Arthur and Queen Guinevere, but I think \"said to\" is the key phrase there, seeing that Arthur's existence has never been proven.\n\nThe Tor was... ummm... high? Pretty good views of an ice cream van in the valley below too \n\nToday I am back at work (hence writing this to avoid doing any real work during lunchtime). God I'm bored. Really really bored.\n\nI have found a good forum on the internet today though - http://www.rllmuk.co.uk/perl/phpBB - it's for people who play too many computer games (like I wish I had time to do).\n\nAnyway. Coffee time I think...",
+      "creationDate": "2003-05-28T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "5EA7E5B1-CC09-436F-9FDA-558A3BD15CF9",
+      "text": "# Sick As A Dog\n\nWe went out to a housewarming party on Friday night. I didn't know if I should go or not, because I had been going downhill all the way through Friday at work, and was coughing more or less every few minutes.\n\nWe decided to go in the end, and had a great time (actually, my other half had a bit too much of a great time and I had to carry her half the way home, but that's a whole other story). Did I know about it the next day though...\n\nThe cough I had started with on Friday had now turned into a wickedly bad cough, which was making me feel sick, and giving me an enormous headache. It went on and on too (as I type this on Sunday night I still feel like crap).\n\nJust to make matters worse the thought of going to work in this state isn't really cheering me up, but I can't really afford to be off during this coming week - there is so much going on I'll really land myself in it.\n\nAnyway. Enough bleeting on about myself. This is the first entry for June 2003, and I guess I should remark about the weather here in the UK. Yesterday afternoon it was so hot I was doing the washing up (in just my shorts), and was sweating just standing there...",
+      "creationDate": "2003-06-01T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "B4207492-2879-4508-9951-0B0C946D305E",
+      "text": "# Hectic Weekends\n\nWe got up early on Saturday to get into London (I had to get a new passport).\n\nActually - I haven't said anything about the reason for the new passport, have I. We were so fed up and tired last weekend we decided to go on holiday. After at least 30 seconds of deliberation we decided that we're off to San Francisco to see family.\n\nThe most amazing thing was discovering that both my work and my wife's work approved the holiday! By the end of Tuesday we had everything in place to go, and by Wednesday the tickets were booked. The only thing that remained was for me to renew my passport, which meant a trip to the passport office in Victoria on saturday morning.\n\nSo... I now have a shiny new passport (with a photo taken in the photo booth at Paddington station), and some new shoes too! (we went in the Brantano shoe store on the way home from London).\n\nUmmm... this is meandering all over the place, isn't it. While in London we had 4 hours to wait for the passport, so had a walk through Hyde Park and Kensington Gardens (via Peter Pan) to the museums - and spent most of the day either in the Science Museum or the Natural History Museum.\n\nI was a bit shocked at the rubbish Moon Lander in the Science Museum - I could probably do better with ten packs of tin foil and some grocery boxes.\n\nHilight of the day was probably going back to the Natural History Museum for the first time in 20 years and finding that the Diplodocus had shrunk. When I was a kid that thing was HUGE - and now it's about 10 feet tall...\n\nAh well... better get on with some work I suppose.",
+      "creationDate": "2003-06-09T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "18CF87BA-8E13-488A-AEA8-378B3691AEBD",
+      "text": "# Finding Time\n\nWe are going to America!\n\nWe fly out on the 21st June for San Francisco, to stay with relatives in San Rafael for 2 weeks. To say we are looking forward to it is something of an understatement.\n\nTo be honest I never thought I would be allowed the time off, but I asked anyway and was amazed when it was cleared immediately - W was amazed too when the company she has been temping for not only let her go, but ended her contract too...\n\nWhen she got home I asked if she was happy or sad about her time at the company coming to an end (it's been 18 months now), and she didn't know - but was looking forward to going somewhere different when we return. She had been pushed from management accounting to normal monthly accounts which she hates doing.\n\nI guess I'm just looking forward to time away. I can't say my job has been the most interesting in the world over the last couple of years. The company I work for has ended up having to fight for every penny - meaning anybody with any experience has to juggle all their skills and perhaps not be doing what they would like to be doing. I know I'm not.\n\nThings are looking up though - I'll shortly be starting development on a website for somebody so that will at least fill my mind. Experience seems to breed cynicism in the web/software development world though - I won't go counting any chickens until things start to happen.\n\nWhat a boringly corporate sounding diary entry...",
+      "creationDate": "2003-06-17T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "CB9A3CDE-E965-4107-B714-790CDB036448",
+      "text": "# 2 Days To Go\n\nWe fly to the US on Saturday morning from London Heathrow - only today and tomorrow to survive at work before 2 weeks away from all the hassle...\n\nToday I am working on a change request and some fixes for an established system, and tomorrow I should hopefully be working on a huge chunk of code cryptically called \"The Parser\" that I wrote a couple of years ago. I need to add a bit more functionality to it in order to expand what it's capable of doing... I might even get to it this afternoon if all goes well with other fixes.\n\nActually, correct that - I just spent the first hour of the day fighting fires with testing of the code I wrote yesterday (and was quite happy with).\n\nI suppose I'm just going to have to see how it goes today.",
+      "creationDate": "2003-06-19T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "D520DF85-77D3-477F-95F7-DA1050C44C24",
+      "text": "# We Are Back\n\nJust a quick note to let everybody who reads this know that we are back from the states. We arrived at Heathrow this morning, got home lunchtime, slept a bit, and now we are both trying to stay awake until fairly late to get our body clocks back onto UK time.\n\nSan Francisco was fantastic (although very hectic and we didn't get to do half the things we planned to - which is always the way) and was incredibly hot - well, it was for mad english people who are used to the cold and rain.\n\nAnyway - I'll write more tomorrow when I'm a bit more awake ",
+      "creationDate": "2003-07-06T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "19C7070C-8ECB-4F9D-A8D9-F30D46F03188",
+      "text": "# New Blog Version\n\nHi all,\n\nIn between doing real work, I found time this lunchtime to finally add an \"admin\" page to the blog script, giving newbies the facilities to add, edit and remove blog entries from a central place.\n\nIt uses the password login from the config file, and for those who have already modded their Blog installations, you only need to copy the admin.php and admin_exec.php files.\n\nThe admin_exec file is a pretty good example of how to encapsulate lots of functions into one file (typical use when you have more than one function available from a page and don't want lots of php files floating around).\n\nApart from the Blog stuff, I have been mildly surprised how well I'm coping with the jetlag from the San Francisco flight. I'm curiously tired all day, but haven't had the falling asleep tiredness that I was maybe expecting. I must be getting better at this or something.\n\nLast night I went out and bought myself a new mountain bike at last, so work is now 15 minutes away instead of 45 minutes by foot. The bike is a full suspension model, and was the cheapest one they had in the shop. It's only intended for getting me to work and back, so I'm pretty pleased with it - I wasn't expecting to get half the bike for that kind of money.\n\nThis week is already stacking up with stuff - it's looking more and more desperate for ThoughtCafe - the site is doing so well that we're almost being forced into moving to a different host because of crippling server fees. Just this month we're having to cover more than the yearly cost of hosting it elsewhere...\n\nAnyway - today is a busy day (I'm about to install VisualStudio.NET on my work computer) so I better get on.\n\nIf you get stuck at all with the blog stuff, just ask in the discussion forum (http://www.pluggedout.com/forums/viewforum.php?f=5).",
+      "creationDate": "2003-07-08T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "E0F583AF-C0E7-4E86-B603-B8BC0E99424F",
+      "text": "# Tired And Busy\n\nThis week has been a bit of a nightmare. It's Friday already and I feel like it's about Wednesday... it's just been one of those weeks.\n\nI heard on Wednesday that I have to go to Manchester on Monday and Tuesday (4 hours away on the Train). That's going to be fun - not. I'm working as a consultant at a big company in Manchester for two days - because they are going live with a project and their normal guy is on holiday. Apparently I have to be very careful because we didn't actually build their system (I'll have to make sure I don't criticise what they have done).\n\nIt could be a long, boring couple of days. Then again, it could be a hectic, stressed couple of days. I shall take a couple of good books with me and see what happens.\n\nLast night I replaced the bulletin board systems on my Brother's and Dad's websites. I used the Invision bulletin board system, chiefly because it allows uploads - so they can have picture galleries for example. I know my Dad will go mad when he sees it - he's been after something like it for absolutely ages.\n\nAnyway - I suppose I had better get on with some work! There went my coffee break ",
+      "creationDate": "2003-07-11T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "423A6174-FFB1-4DEE-A64B-55D29D82D969",
+      "text": "# On Site In Manchester\n\nIt's 14th July, I'm sat in the offices of BUPA in Manchester, and I'm tired. I'm also bored.\n\nI've been contracted here for 2 days to support part of their systems while they \"go-live\" with an EDM system - basically, they are going to scan all their documents and keep them on the computer system instead of putting them in a filing cabinet.\n\nI only found out that I had drawn the short straw on Thursday night, and had to organise a hotel and a means of getting from where I live to Manchester (about 400 miles).\n\nAs is typical in my little corner of the universe, to book the hotel room I needed a credit card - and I had only just received my new card on the morning I was booking the hotel - so in effect I couldn't book the hotel... When I first called the hotel they said they were very busy and I would have to take a more expensive room (probably 6 inches bigger than a normal room). Strangely when I called in on Saturday morning with my brand new credit card to finally book the room, they had lots of spare rooms. Weird...\n\nSo, I found myself getting out of the car with W at Maidenhead station on Sunday afternoon ready to set off for Manchester. W had planned to come out to the platform to say goodbye, but then found out that you couldn't park your car for a shorter period than one day - therefore it was going to cost as much as lunch to park the car for 5 minutes... is that rubbish or what. We said our goodbyes, and a minute or so later found myself stood on the platform waiting for the Thames Trains service to Reading.\n\n20 Minutes later, and I am standing on another train platform in Reading, waiting for the 16:05 train to Edinburgh, which I am reliably informed stops at Manchester Picadilly (reliably informed by a little man at an information desk in Reading Station, as it happens). The turnstiles at Reading wouldn't let me back out to the platform either. Perhaps I should have seen the signs of things starting to go wrong?\n\nAt one minute after the time it was supposed to arrive, the Virgin Trains service to Manchester rolled into Reading Platform 3. I knew it was possibly my train because I made out \"Man\" and \"Dilly\" in the mayhem that is the Reading Station Passenger Information Assault System. Mind you - ten minutes before they had been telling everybody going to Manchester to get on the Oxford train. Nobody did. I guess the rule \"never understimate the intelligence of commuters in large groups\" should stand from this point forwards.\n\nI have to say (in their defence), the Virgin train was very good indeed. Nice comfy seats - if a little too close together (but then I am 6'3C/3), and information read to passengers by the train manager approaching every station, and leaving every station. It would have been perfect if he hadn't made one mistake...(more in a minute).\n\nOn the way between Reading and Manchester we encountered a fire at the side of the track, broken signals at Leamington Spa, and apparently we had to reduce speed because the track was \"too hot\". I can't say I have EVER heard that one before.\n\nAnyway - back onto the story. We got into Manchester at about 8pm. On approach to the station, the train manager announced \"We will shortly be arriving at Manchester. All those getting off at Manchester Airport, please make sure you have all your belongings with you when you depart the train.\". Not being able to see a sign saying the station name anywhere, I thought \"ah! this is Manchester Airport, just like Birmingham has Birmingham Airport station just before Birmingham New Street Station (the main one). People clambered off the train, then it started moving and the train manager announced \"The train is now leaving Manchester Picadilly, our next stop will be Bolton in twenty minutes\". Aaarrggghhand figured out it would be 9pm before I finally got anywhere near my hotel for the night, and therefore I had probably missed dinner. I got off at the next station, and crossed to the other side of the track - a train appeared straight away and I raced around the various information screens looking for any hint of where it was going. The announcer came to my rescue with a load of burble about the platform I was standing on, and \"dilly\" came up again. I gambled that Manchester Picadilly was the only one in the area, so jumped on - and worried that a conductor would appear again.\n\nTwenty nervous minutes later we appeared to be back in Manchester - the only question now was if this damn train was going to stop at Picadilly. Salford, Deansgate. Oxford Road. Picadilly!! I was finally where I should have been three quarters of an hour earlier.\n\nAfter a short queue for a taxi, and a five minute drive out of the city, the Manchester United football stadium came into view. Even though I hate them I have to admit that the stadium is very impressive indeed - and there was my hotel - right next to it! The Golden Tulip.\n\nI went straight to my room, and marvelled at just how big it was. My experience of hotel rooms is that if you tried to swing a cat round, you would probably break your arm. This room was big enough to hold cats in both hands and do aerobics without touching anything. Mind you - there was no mini bar to raid.\n\nAfter a bit of indecision I unpacked my clothes and went down to dinner (the restaurant closed 15 minutes later), and was suprised to find a huge plush restaurant with a pianist in the corner - who was of course playing the worst cocktail versions of popular music that you could possibly imagine. \"Killing Me Softly\" had to be heard to be believed. Perhaps \"Killing me slowly by tinkly piano music\" would be a better description. The food in the restaurant was good though (if a little predictable), and I ate it probably twice as fast as anybody else in the place - along with two bottles of beer.\n\nIt's a strange experience, sitting in a restaurant on your own. I took a book down with me, and while waiting for the food sat and read it (Hackers, by Steven Levy - great book about the \"history\" of hacking, and the hacker ethic).\n\nAfter dinner I could have gone to the hotel bar, but decided (a) I was tired, (b) I wanted to call W, and (c) I didn't want to get hit on by some 40-year-old blonde in the bar (things like that just seem to happen to me so I try to avoid them these days).\n\nSo - back to the room and watching Hotel telly! It turned out there were about 20 channels. Five normal telly channels, Sky News five times, 6 movie channels and a couple of sport channels (one of which was MUTV of course). The 6 movie channels showed an equal balance of flopped hollywood movies, or porno movies. I'm not joking.\n\nAfter giving up telly as a bad job I discovered \"Big Brother\" was on, and it actually made me fall asleep - which was rather handy \n\nAnyway. I've sat in the offices of BUPA all day today messing around typing things like this, or reading my book about Hacking. Tomorrow I might even bring the new Harry Potter book with me (which, incidentally I read over 200 pages of on the way up to manchester). Anything would help to get me through the day. Although officially I am in a \"support\" role, it looks like they have tested everything and nothing is going to go wrong anyway.",
+      "creationDate": "2003-07-13T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "2AD9CF6B-0C23-4968-8016-EEECDAEA1A87",
+      "text": "# Another Day Away\n\nIt's Tuesday morning in sunny Manchester and I'm sitting in the BUPA building at Anchorage one, having just dealt with my first Kofax Ascent question. It's hardly what you would call the most taxing assignment in the world.\n\nLast night the hotel was its usual soul-less self. I got back from the office at about 5pm, and went up to my room to veg out. After calling W to catch up on the news of the day, I basically practiced my couch potato skills with the aid of the telly in the hotel room.\n\nThe one interesting happening of the night happened just as I was getting changed to go down for dinner. While wandering around finding a clean shirt this ear splitting wail suddenly burst into the room... enough to make you feal nauseous. My first thought was \"what did I do?\", and then common sense kicked in and I figured it was the fire alarm. I put a shirt straight on, and tore out of my room - leaving everything there (laptop, phone, wallet etc). I did think about them on the way down the stairs, but then thought \"if this is really a fire, I don't care about them\".\n\nI arrived at reception ahead of any other residents of the hotel to find the cook running around like a lunatic, shouting at every member of staff he possibly could. Perhaps this is the way chef's behave? I gathered through the bits of his ranting I understood that another member of staff had set it off by accident.\n\nSo - down to dinner I went again, and again I seemed to break all records for eating food quickly. I guess it's a shame that I wolfed it down so quickly, because each plate that came out was something of an artistic masterpiece - my only defence is that I hate eating alone in restaurants.\n\nTonight I thought I would try the hotel bar out. I went through after eating and sat down with my book and a bottle of \"Leffe\" fake belgian beer. I sat there for two bottles of beer - possibly an hour and a half, and the only other people that came into the bar were the waiters... I must have some big sign saying \"leave the room\" projected above me or something.\n\nAnd so I guess we return to this morning. On leaving the hotel I picked up my \"free\" teddy bear that I had \"won\" in a gold envelope found in my room. I picked up three of these supposed \"prizes\" while at the hotel, and grew more cynical each time. Somehow I never managed to pick up the same prize twice, despite getting four of the things in the end - and only one of them was a true \"gift\" - all the others involved buying a drink or a meal first... and all of this at the cost per night of staying in a bead and breakfast for about three days.\n\nAm I turning into a bad tempered old cynic? Possibly. I just know that I'm sat here in Bupa's office with absolutely nothing to do for the next 5 hours and it's driving me round the bend.\n\nRoll on lunchtime - and roll on the journey home! Of course, the journey is going to take about 5 hours, which I'm not looking forward to at all.",
+      "creationDate": "2003-07-14T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "FCE3B9F4-22A9-443E-A98C-86436437CBF9",
+      "text": "# All Airshowed Out\n\nI went to Fairford \"Royal International Air Tattoo\" with my brother on Sunday. Apparently officionado's call it \"RIAT\". I think I'll call it an Airshow.\n\nWe rode bikes from my brother's house to the air base about 12 miles away (according to my brother's cycling computer). I think that's probably the furthest I've ridden my bike in 4 years  The last major bike ride I did was a 50 mile tour of Oxford for the Anthony Nolan Bone Marrow Trust, and I didn't even do it for the charity - just did it to see if I could.\n\nI was quite surprised at the end of the day how much energy I still had in my legs after so long without really cycling any distance. I'm probably only 30% towards the level I was at once upon a time, but I was still good enough to keep up with my brother.\n\nThe Airshowwas a fast pass by the B1-B (just do a search on google if you want to see what it looks like). Apparently it's NATO codename is the \"Bone\" \n\nAnyway - back at work today and trudging through the various stuff I have to do. This week isn't looking too busy yet - I bet that's going to be famous last words...",
+      "creationDate": "2003-07-21T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "AA8DD41A-B154-41F2-A31C-6D9B2B8034E6",
+      "text": "# Wednesday Night\n\nIt's wednesday night, and I'm sat here fiddling around with the code that makes up the page you are reading right now. I'm worried that the whole thing is a bit boring and \"corporate\" looking - hence the sudden appearance of pictures.\n\nI'm betting on people e-mailing me now saying that the downloadable version of Blog doesn't have any of the whizzy new features, but then that's the nature of people in general, isn't it - be as pissed off as they can as often and for as long as they can. Perhaps I'll leave the blog script with the level of functionality it has, and encourage people to make their own modifications.\n\nWork today was pretty hectic. I'm working on a pre-sale demo for an \"e-Procurement\" system for a rather large company (multi-national). Normally you would get several weeks to turn out such a demo, but oh-no. Not where I work. I've got one and a half days. Luckily I am pretty good at faking things, but it's still going to be bit of a rough job. Not so much \"smoke and mirrors\" as \"fog and polished tin\".\n\nOn top of that, I am the only person doing help desk at the moment too - and we've had four calls in so far - all of which I've not had time to spend on. Watching four other members of staff stumbling through a customer support call (the blind leading the blind) wasn't particularly nice... in the end it would have been far quicker if I had just handled the call myself. They called me for assistance four or five times anyway.\n\nAm I sounding boring and monotonous yet? I should be. This is the nature of my life at the moment. Boring. Slow. Monotonous. Lack of excitement. Apart from W that is. She is the one constant that is good - my happy thoughts. She drags me away from myself. I am after all, my own worst enemy.\n\nGod this room is a mess.",
+      "creationDate": "2003-07-23T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "CD040DBE-25C6-4F88-8E4D-819C9F5948A8",
+      "text": "# Fire And Brimstone\n\nIt's Thursday afternoon, and the world seems to be falling down around my ears. I am working alone on the upper floor of the company. There are presently four urgent helpdesk calls open, and I'm supposed to be working on a demo for Monday (on a ridiculously short timescale). I guess you could call this blog entry a drowning rant.\n\nI did manage to get away at lunchtime (amazingly) to have dinner with W. We went to a pub called the Three Horseshoes on the other side of town - I had a pint of cider, and a double burger and chips. The cider has gone completely to my head.\n\nI came back from lunch to a new \"really urgent\" help call, which I have just fielded and tried to put the flames out again. I'll be glad when this week is over. I really will. My Project Manager's idea of helping was to sit to one side of me, looking over my shoulder, watching me do what I would have been doing had he not been there anyway.\n\nThe thing that's really annoying me today is just the fact that I am running helpdesk completely single handed all week. Today is worse though because I haven't even got the helpdesk manager to field the calls. I am the whole upper floor of the company today... and I'm supposed to be doing development work for a demo.\n\nI think they're going to have to learn the hard way that you just can't expect half the people to do twice the job. It's just not going to happen. As much as I hate letting people down, I'm going to have to draw the line before this week is out.\n\nDo I sound annoyed or what?\n\nPerhaps I should spend the afternoon messing around with my own web projects and let the \"far too busy\" other people dig their own holes rather than find out (too late) that I have left them in a hole?",
+      "creationDate": "2003-07-24T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "262B788C-1C64-4C38-ADE8-CE3D960B7191",
+      "text": "# A Quiet Day\n\nIt's Saturday afternoon and my only contribution to the world for the day (so far) was to walk into town this morning and buy a newspaper...\n\nI wandered into WHSmiths and decided their new layout is incredibly poor. The shop looks much more roomy than it did before; but that's because they have far less stock than before. I moseyed around the various CDs, DVDs and computer games before deciding that I didn't really want anything and continued on to the next shop.\n\nMarlow has quite possibly the most useless bookshop in the world ever. Perhaps I'm being a bit hard on it. We have this bookshop called \"Horizons\", and they have the problem that they still exist. If you're wondering what I mean, Marlow used to have a fantastic bookshop called \"Bookends\", where you could dissappear for a good hour looking around the various isles of new and second hand books.\n\nIn a typical example of small town greed last year, the owner of the land the shops stand on put rent up almost double and forced the little family businesses out. Clinton Cards bought the book shop lease and turned it into a faceless hole much like \"Fox Books\" in a certain film...\n\nI love old book shops. They should be protected. They are slowly dying out because of stupid councils and idiotic developers.\n\nAnyway - I had a quick look around the bookshop for something to read but (as per normal) found nothing inspiring so left.\n\nNext stop on my non-shopping adventure was Lakes, a small electical shop where there is a sale going on at the moment. I tried to go look at the walkmans and stuff but the shop was stuffed with old gits dithering over old stock being cleared.\n\nFinal stop was at Computer Cavern - Marlow's only independant computer shop. I recalled that they had retro computer games locked away in one of their counters, and thought I'd check them out. I walked in, saw that they were trying to sell several PS2 games at full price (even though they are ancient), and walked back out again.\n\nSo. Here I am. It's Saturday afternoon and I have had a non-day.\n\nSomebody please send me an e-mail letting me know that interesting things do actually happen in the world...",
+      "creationDate": "2003-07-26T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "C4DED58B-335F-4E75-A803-8513AAACD101",
+      "text": "# Quickdraw Mcgraw\n\nI had an early start today to go and visit a client on-site. I left the house at about 7:35 to catch the early train. The journey there was as uneventful as ever (from Marlow to Hillingdon).\n\nAs per usual I got the most talkative taxi driver in the world (well, my part of the world) for the journey there. I know it's horrible, but keeping up the conversation was really difficult - he wasn't the sharpest tool in the box by any means.\n\nArriving on-site I made my way over to the server room and got stuck in to the work for the day - accompanied by Jean Michel Jarre via MP3 files on my laptop (and yes, I do own all the albums, so I am a legal user of MP3s). It was something of a race against time because it turned out that the programming I had been scheduled to prepare over two days off-site needed to really be done on-site, so here I was trying to fit two days worth of coding into one.\n\nI did it \n\nThe one slightly interesting thing that happened away from the snore inducing world of computers for today was one of the chaps that I requested some assistance from nearly having a fight !\n\nThe carpark to the place I was visiting is very small, and obviously the few parking spaces available are assigned to company directors and the like. By about lunchtime I needed some help from one of the directors, so gave him a call. He had just arrived back at the office, and came to see me. We walked across the site together, where I saw that the car garage next door had parked a new 44 in his space while moving vehicles around. He had in turn had a fit of temper and parked his car about one inch behind it...\n\nAs we walked across the car park (names substituted here), the car garage owner tried to stand in Noddy's way to ask him to remove his car... Noddy meanwhile refused to look him in the face or answer questions, and walked around him. The manager guy tried to sidestep, saying \"Come on Noddy, you're blocking the whole car park up!\", at which Noddy said \"No. I'm not moving it. You move that other car that's in my space. I've told you before a thousand times.\"\n\nIf I had been the manager guy I would have been sorely tempted to belt Noddy one. As we walked into the office, the manager shouted \"Noddy....\" at which he shouted back \"Busy...\" and walked straight through the door.\n\nShould it surprise anybody that the Noddy character had a black eye?\n\nAnyway - I've gone on for far too long about a pointless little spat I saw today. It would have been good if there had been a fight though ",
+      "creationDate": "2003-07-31T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "8CEB9B91-F294-4A97-8C00-86E51D70E292",
+      "text": "# Trains And Trucks\n\nFor the last two days I have been working on-site at Swindon - about an hour and a half journey by train.\n\nI'm pretty happy because the stuff I was working on turned out to be pretty straightforward, and I was able to use a chunk of programming I developed a couple of years ago in a totally new way.\n\nAnyway - this entry is really just to let everybody know that I am still here, and I'll try and find time tomorrow to write a real entry in this blog!",
+      "creationDate": "2003-08-06T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "B31469A7-7794-4A42-882F-460C02FA6994",
+      "text": "# Back In The Office\n\nI am back working in the office today, after a couple of days working in Swindon. The one great thing that I got out of the last couple of days was reading \"Hackers\" by Stephen Levy while commuting back and forth from the client site.\n\nHackers is a great book (although more often than not I always think the book I'm reading is great). It tells the story of the \"mass market\" computer revolution that happened from the days of the early PDP machines at MIT right through to the emergence of people like Wozniak, Jobs, and Gates.\n\nReading the book has kind of reminded me how much I enjoy writing computer software, and how long it has been since I wrote anything \"just for fun\". When I was in college I would always be writing various pieces of software just to figure out \"how\". Perhaps I'll go and pick up the programming for my chess engine one day soon and see if I can get it to play a half decent game...\n\nAnyway - here I sit bashing this text into my Blog. The sun is shining outside, the office is becoming very hot indeed, and I really don't have a lot to do in advance of my trip to another client site tomorrow.\n\nI'm sure somebody else will find something for me to do if they find out though.",
+      "creationDate": "2003-08-07T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "D8E75786-7506-4498-96E0-3B955F3FDB78",
+      "text": "# My Computer Is Infested\n\nAfter my other half told me that she had some trouble rebooting the computer this morning, I did a search on the internet for some of the suspicious looking service EXEs that were running on the machine.\n\nMy search took me to Google Groups, and via a couple of conversations there, I saw the mention of a piece of freeware called \"AdAware\"... a couple of hourse later all the computers in the house had it installed and were busy scanning - chiefly because the main machine that shares it's internet connection had 170ish \"objects\" relating to trojan horses, spyware and tracking files.\n\nAdAware did it's job wonderfully, and I shall no doubt be registering it in the coming days. I would have thought Norton Antivirus and ZoneAlarm would have done their job to stop spyware doing too much, but I'm guessing that some of it must have got in with other applications.\n\nIt's still quite shocking to find that my home computer had so much crap on it. I work as a software developer, so run quite a clean ship with the computer. Okay - I download some unbelievable crap from time to time, but it gets cleared off more often than not.\n\nChanging subject suddenly, I decided this last weekend to write a Genealogy program for Windows. W has been researching the family tree for a couple of years now, and faces continual frustration with the software available on the market... so the only feasible solution was for me to write the software for her - and then of course I realised that everybody doing Genealogy research faces the problem...\n\nSo... I made a forum today on PluggedOut to contain discussions relating to the development of the family tree software. It's still in the early days, but it's going to be quite quick to develop - it's a straightforward Windows application after all.\n\nThe one thing that did nag at the back of my mind all weekend was the means of recording the information. I needed a database, but didn't really want to use the Borland Database engine, or ADO/MDAC - both mean hefty downloads for the user. As usual, the answer presented itself via a search on Google Groups, and I discovered a lightweight database engine called \"MyDB\". I think it will suit my purposes perfectly.\n\nAnyway - what a boring message for the blog. I guess half the reason for my submersion in IT once more is down to the heat recently in the UK. It's been too hot to go out so I've almost become nocturnal and sat in front of the computer for hours at a time, amusing myself on the web or working on little pet projects.\n\nEnough of this bilge! Time for a very british cup of tea!",
+      "creationDate": "2003-08-11T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "CEAE4308-4BC7-483C-8429-11FEFB7C8B51",
+      "text": "# Strange Week\n\nOn Wednesday this week, myself and my father-in-law went on a \"Hawk Flying Experience\" day at the Andover Hawk Conservancy (www.hawk-conservancy.org).\n\nThe day started at 10 with a talk from our tutors for the day (a Falconer and an assistant), then we were straight into the handling and flying of the birds...\n\nThroughout the day we got to fly, catch and feed a number of birds of prey, including Black Kites, Harris Hawks and a Balateur Eagle. We also went behind the scenes in the hospital, and in numerous aviaries to see birds like Vultures and Owls up close.\n\nDuring the day we saw a couple of flying displays - of various Kites, Owls, Eagles, Vultures, and at the end of the day we got to see the famous \"Perigrin Falcon\" strut it's stuff.\n\nSeeing some of the big Eagles, Vultures and the Perigrinne really was something else. I believe they said the Perigrinne Falcon made it's entry across the field at about 140mph... and stooped in later in the show at about 180mph.\n\nAlthough we didn't see any \"mishaps\" ourselves (either while flying the birds, or watching the display), we did get to hear some great annecdotes about the Perigrinne. Apparently, while the falcon is soaring above the field waiting for the lure to be thrown, a stupid pigeon will occaisionally take flight. If the two birds are within half a mile of each other - the pigeon is basically dead.\n\nApparently, the Falconer's experience is that regardless of the make-up of the audience - Vegetarians, Vegans, Pacifists - they suddenly are all rooting for the Falcon, willing it to make it's kill... and then they discover what happens when a Falcon hits a pigeon at 150mph+\n\nTypically the pigeon's head comes off, and it's guts get sprayed across a liberal area...\n\nThe audience nearly always react with instant horror (as against their bloodthirstyness a second earlier), and can be heard saying how awful, and barbaric it was...",
+      "creationDate": "2003-08-15T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "674066C4-B74C-4746-9462-4F3EBEF228CA",
+      "text": "# No More Food\n\nWe went out for dinner last night with some friends to a local pub that has started doing a \"curry night\". We arrived at about half past seven, to find that the place was absolutely packed to the rafters - and then discovered when we went to order our food a few minutes later that the kitchen were taking no more orders because they ran out of food!\n\nWe ended up going to the local chip shop (which happens to be next door to the off-license), and then went back to our friends house...\n\nAlthough it was a bit annoying, we didn't mind too much because we know the guy who owns the pub, and know that they were only trying this curry night to turn their quietest night of the week into a more busy one - obviously successfully. I think we'll go again next week but try to get there a lot earlierhas been fairly hum-drum. I went on-site in Hillingdon yesterday morning (and came back in the afternoon), then spent the afternoon working on help calls once again.\n\nOh - last comment for today - I had a puncture on my bike the day before yesterday. I fixed it early this morning before coming to work. I got off my bike at work this morning, and have another puncture... go figure.",
+      "creationDate": "2003-08-20T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "1D44530B-4101-441F-96C6-4CADC02DD29D",
+      "text": "# Indian Restaurant\n\nWe went to the \"Tiger Garden\" indian restaurant in town last night - my Aunt from America was staying over before flying home, so took us out for something to eat \n\nAs per usual I ate enough for a small african nation, but then I did skip lunch (work has been slightly mental - the helpdesk has turned into a full time wade through treacle). The food was fantastic, and after the day I had, the Cobra beer was exactly what the doctor ordered.\n\nMy aunt left for the airport at 6 this morning, and I guess I woke up when she did because W got up too - so there we were, downstairs at 6:30am wondering what to do with ourselves for a couple of hours before we had to go to work... somehow the lure of breakfast time TV took over so we just sat and watched it (while drinking several cups of tea).\n\nIsn't it amazing how time can just be eaten up doing nothing?\n\nAnyway - today at work the office is pretty dead and I am trying to deal with another hail of help calls. I really am getting nowhere fast. It's almost funny.\n\nI think the plan tonight is to do as little as possible. I may try and tidy up in the study a bit - at the moment it looks like an explosion in a computer factory, due to my normal desktop PC packing up a couple of nights ago.\n\nHere's the general gist of what happened... (don't laugh)\n\nTried booting PC. It made a sound like the millenium falcon starting up, and then sounded just like the Millenium Falcon stalling... I removed the power supply from the Linux crappo-but-reliable machine and put it in the dead XP desktop machine... same again... I tried re-seating the processor in the dead XP machine. Same results. I rip the innards from the dead machine, and start building the crappo-but-about-to-be-better Linux machine into a far more powerful beast. I boot up the Linux machine and it does nothing. I re-attach the IDE cable of the XP hard drive to the Linux machine, this time putting it the right way up. I boot up the Linux machine... it tries to load Windows XP. I power it straight down. I find a jumper from somewhere in the dead computer, and make sure that the XP hard drive thinks it's a slave. I boot up Linux, and WEHEY - we are in business. I can even mount the XP drive and browse it via a terminal logon. I expose the /mnt folder through Samba and try to connect the laptop to see it... unsucessfully. Ten minutes later, I realise that the Linux machine has no network cable in the back of it...doh! Another ten minutes, and the laptop can see the Linux machine on the network neighborhood... I now discover that Linux will not share an NTFS drive's contents through Samba onto the network. Damn and blast. I set about copying the contents of the XP drive to the Linux local file system. Next discovery is that I don't have access to copy the damn files from the Linux machine. One CHMOD later and they are all copying... I save the world... well... my hard drive's contents.\n\nAAAaaanyway....\n\nI'm starting to rely on Linux more and more over Microsoft. For the uses I ever put a computer to, Linux does just about everything I want. I'll still keep Windows around though in order to write apps and stuff for people.\n\nTime for a cup of tea...",
+      "creationDate": "2003-08-21T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "98A97480-0C24-46C5-AF57-107811EDF065",
+      "text": "# Wiped Out\n\nI'm guessing that the people who lived here before wanted their garage base to survive a tactical nuclear strike.\n\nFor the last two days myself, my other half and my brother-in-law have been removing a concrete garage that the previous owners of our house built in the back garden. (I now have muscles on muscles)\n\nWhile breaking, carrying and generally destroying the garage, I have learned a new level of fatigue. We have a skip on the drive of our house that is probably going to tip the lorry up that comes to collect it - or just cause it to do great wheelies... I'm sure it's going to be over the weight limit - the skip is like a car sized pile of pure concrete.\n\nThe one major disaster of the weekend was the hire of an industrial breaker's drill to use on the garage base. It was supposed to be able to handle 12 inches of solid concrete - but we're guessing they didn't mean the kind of concrete our garage was made of (the nuclear proof variety). After drilling for 5 minutes, none of it cracked, we made a small hole, and the drill bit blunted itself... We're guessing we are going to need to hire earth moving machinery to smash it up.\n\nWe also took down a huge fir tree in our garden today. I bought a felling axe, and had some serious fun learning how to use it. I have the blisters to show for a now expert axe-man skill. I could probably put on a viking helmet and cause death and destruction with the best of them - well, to trees anyway.\n\nAt the moment I am actually having trouble typing this because (a) my fore-arms are numb, and (b) I have the afore mentioned blisters on my left hand (the one that was holding the end of the axe before I realised I had bloody dripping in my fingers, and reverted to a big leather glove).\n\nJesus did those blisters hurt when I showered at the end of the day.\n\nI think tomorrow is mainly going to be concerned with excavating the tree route out of the ground. I want to just burn the thing where it stands, then dig the ashes out, but I don't think I'm going to be allowed to do that somehow (and, being sensible, I don't think I want to try that either).\n\nAnyway - I have just about had it, so am going to sign off for the moment.",
+      "creationDate": "2003-08-24T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "E1D52C8C-A41F-44DA-9FCF-BF9BEA5EAC6A",
+      "text": "# Exploiting Vote Systems\n\nIs it time to own up to the Diarist exploit that's put me on top of the referrals list?\n\nIt's worth mentioning that this diary entry is not advocating that anbody else try this - I am informing the diarist.net people of the weakness in their system, and will be helping them fix it.\n\nNormally I would write about what I've been up to in this blog, but today's entry covers the means and method for exploiting a scripted ranking system (such as Diarist.Net). I will be switching off the exploit in a couple of days time...\n\nTo be honest, I'm really surprised that nobody has done this before - I'm expecting they have, because all top-rank sites can suffer from the same problem as the one I have exploited.\n\nHere's how it works...\n\nYou really thought I was going to tell you, didn't you  Can you imagine how much trouble I would get into if I published the exploit?\n\nI'll probably write more in here if I can come up with a sensible fix for the exploit, but I'm not so sure there is one (which is very worrying for any ranking type site).",
+      "creationDate": "2003-08-26T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "82D77965-40C7-427A-83D9-CDFCF2DAF4BC",
+      "text": "# Abandonware Rules\n\nWhen I got up this morning I really didn't want to go to work. I was up at 7am, and sat watching breakfast television for a while. Eventually I gave myself a kick up the backside and got ready for work, but only really because I knew I would get into trouble if I stayed home.\n\nIt's funny - you hear about the idea of \"Duvet Days\" in people's contract of employment from time to time, but if anybody really had them, you would still get winged at if you decided to take one. Although getting up was difficult, once I got out of the house and made my way to work I felt okay. I guess because I am not working on a major project at the moment, I have something of a motivation problem.\n\nI spent a while last night looking at the Underdogs website on the net (search for \"The Underdogs\" on google), and downloaded some old games that I used to own years ago. It's a bit of a problem getting them running on modern hardware and operating systems, but after a bit of tinkering you too can be playing \"Beneath a Steel Sky\" in a window on your desktop \n\nI don't know how many people have run across it yet, but there is a huge swathe of old software available for downloading on the internet that has become termed \"abandonware\" - meaning that the original authors are no longer in business, or the copyright has lapsed. You can therefore go and download various programs and games for free now since about 1991.\n\nAlthough last night was spent playing computer games, tonight will probably be spent tidying the house up. It's a bit of a tip at the moment - basically because we both have too many interests, and both get sucked into computer games (like Settlers 2). We seem to have a blitz about once a week, and then everything goes backwards for the rest of the week. Don't get me wrong - our house never looks like a tip, but it certainly looks lived in most of the time. Everybody who visits loves it though because they say they can relax - it's not like we ever put on a big show.\n\nAnyway - I'm sat here writing this and an alarm has just appeared on my screen reminding me to fill out my timesheet on Livelink (we use Opentext Livelink in the office to store and track everything - I hate it with a vengeance).\n\nHo-hum. I guess it's nearly the end of the working day once more. Hopefully the meeting in the morning about the new workflow project will be a bit more exciting than the last few days have been...",
+      "creationDate": "2003-08-27T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "09AE0A6A-0F2B-40DE-95B0-C7C0CF403F08",
+      "text": "# Home With A Cold\n\nToday I am sat at home with a pretty horrid cold... one of the people I work with brought it in, and somehow I managed to catch it. I must hold the world record at the moment for catching bad colds - I've probably had about ten in the last year!\n\nI knew I was going down with something on the way home last night - riding my bike home seemed like much more hard work than normal (I ride a mountain bike to work and back - it's about 3 miles away), and then by late evening my head was starting to clog up.\n\nThis morning I am pretty much useless. It's all I can do to write these few bits in here. I'm probably running at zero concentration today...\n\nI'm off to make a cup of tea anyway.\n\nI'll update here when I have a bit more energy and will to do anything other than feel crap ",
+      "creationDate": "2003-08-28T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "288CDF49-C814-4AE8-956F-50A84817036F",
+      "text": "# Getting Better\n\nI'm back at work today (and not feeling too clever, it has to be said). My powers of healing seem to be about as good as usual though - I was really bad for about a day, and then have got better really quickly.\n\nToday at work stupidity seems to reign. Perhaps it's that \"Friday Feeling\". For some reason we started coming out with stupid super hero names - like \"Septic Sid\", and \"Festering Fred\".... but I think we are all agreed that the best one so far with the most potential to tell stories about is \"Snot Boy\".\n\nReading the above, you are probably wondering just how childish I can be at times, and you'd have to wonder pretty hard. I can be incredibly stupid at times. I think W despair's of me now and again... take this morning for instance - I was getting ready for work and walked into a room to pick something up. W asked me something as I walked by, and I completely forgot what I was doing... it took me a good few seconds to rewind and figure out where I was going again.\n\nAnyway - enough of my idiocy.\n\nThis evening I may be wandering around to my mates house to get my Amiga working at last. I have an A600, a hard drive, and the cable for it - so we're going to see if we can get it to boot up properly. If it does work, it will give me a computer to use for messing around on with programming, playing retro games, and so on.\n\nDid I mention that my SNES has broken? Well - it's not broken as such - the cartridge slot is damaged. If you wiggle the cartridges when they are in, the machine locks up. Looks like I'll have to get another one on E-Bay...\n\nHo hum. It's Friday and it looks like it's nearly the end of the day (17:14 as I type this). I think our only plans for the weekend are to visit my brother tomorrow afternoon, and go out for tea with family tomorrow night. Should be a laugh!",
+      "creationDate": "2003-08-29T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "FB603E4E-1A39-417A-8DA1-3207DC593590",
+      "text": "# Is It September Already\n\nI can't believe it's September already... It does seem like it should be for some reason. August didn't seem to happen this year - perhaps this is the kind of thing that happens when you get older?\n\nLast week I implemented the blog script on ThoughtCafe. Although there are a few more things to tweak in it, it works pretty well - if you want to see a multi-user variant on the Blog script theme, take a wander over to look at it \n\nIf you are after a multi-user blogging script then give me a shout and I'll be happy to sell it to you...\n\nAnyway - it's getting late this evening and I feel like making a cup of tea or something. Aha - I just remembered there is some Grolsch in the fridge.",
+      "creationDate": "2003-09-02T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "B23DC855-DA96-4582-AE8D-1C84242FEFF0",
+      "text": "# Lazy Day In Cornwall\n\nWe have travelled down to visit my parents in Cornwall for the weekend, and are having a very lazy Sunday indeed. I think being away from home kind of forces you into a different pattern - because you physically can't go off tinkering with something that needs to be done, you relax that little bit more.\n\nWe arrived late on Friday night (after leaving straight from work), and spent yesterday wandering around the local area.\n\nIn the morning we walked the mile or so down to Talland Bay. It's quite strange to go down there now - after spending so many years messing around on the beach during holidays there are a child. Walking around the beach reminds me of different scenes that happened at different parts of the beach - like Toby (our Golden Retriever when I was a lad) digging enormous holes and begging people for their ice creams...\n\nOn the way down to the beach, W had seen lots of sloes and blackberrys in the hedgerow, and of course spotted that the cafe at the beach sold plastic buckets... in true five year old fashion she exclaimed \"THEY SELL BUCKETS!\" (with an intake of breath)... and I said - \"well, you've got money - if you want a bucket, you go and buy one\"... \"oh, go on.. pleeeaaasseee\",\"Nope\"... two minutes later I had of course bought the bucket and off we went.\n\nAnybody that passed us on the hill over the next hour would have laughed out loud. W was perched on top of my shoulders (rather unsteadily), bucket in hand, expertly stripping the entire hedgerow of blackberrys. I was banned from picking them because I kept eating them. My only defence is that they were really nice \n\nIn the afternoon we went into Looe shopping and took my Mum. Big mistake. We went in a second hand bookshop to have a look around, and Mum said she was going in a jewellers. We had a quick look around the books, then went to find her... an hour later we finally found her after searching all the way around Looe twice. \"Where have you been?\" she started...\n\nAnyway... last night we went to \"The Old Ferry Inn\" in Bodinnick (across the river from Fowey) for a meal. I didn't see any of the faces I remember in the Pub from years before, but a good time was had by all and we finished the night uncomfotably full after eating far too much \n\nToday is Sunday, and we are being lazy. I'm sat at my Dad's computer at 11:05 in the morning after doing very little indeed all morning so far. Mum made me breakfast - isn't it great being fussed over when you visit your parents \n\nWe have to go to Looe later to pick up a box of Pasties, but apart from that we have absolutely no plans for the rest of the day. I wonder what we'll end up doing?",
+      "creationDate": "2003-09-07T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "4F4FC1B5-51A9-499E-AFB0-526C0D907471",
+      "text": "# Our Mouse Murdering Cat\n\nIf you want to read about our murderous cat, scroll down a bit...\n\nFirstly I guess an apology is in order to anybody who normally reads my blog. Over the last week I have been either working on-site, or working late so much that I have not touched a computer in \"my own time\" for over a week... (well, apart from picking around with Python).\n\nThis is going to be a very boring entry, but basically is required just to let you know what I've been up to since the last entry.\n\nLast week I was pulled from pillar to post at work to help on a new project, and to finish development for a new system I was installing later in the week. In the end I managed to be all things to all people, but it meant the week was no fun what so ever.\n\nThe new project (at the moment) involves helping out with DTP and design work - another string to my bow that very few people know about, thankfully. The whole project is becoming bogged down in a paper chase between the directors. The database driven website I developed for them is still empty after several weeks sat online. I may offer to go ahead and populate the website myself, and let them alter it afterwards.\n\nOn Thursday and Friday I commuted over to Swindon each day to install the stuff I had been developing for the last week or so (in reality the development was mostly done the day before I went - including a healthy dose of overtime).\n\nOn the way back from Swindon on Friday I stopped off in Didcot to go for a drink with my brother in law. We went in the pub opposite the railway station in Didcot (for those who have any idea of it). I had two pints of \"Greene King IPA\", and then continued on my way. In hindsight it was a bad idea - I had not eaten properly all day, and it went straight to my head. It was something of a battle staying awake as I travelled through Reading, Maidenhead and Bourne End stations on the way home to Marlow.\n\nSo - I get home on Friday, get changed, make tea for W who has been off work ill, and attempt to get ready to go into town to have a drink with some colleagues who are leaving... and the cat walks in with a snake it has found in the garden.\n\nFollowing a bit of a panic, we get the snake off the cat, and deposit it at the far end of the garden (making sure the cat can't see us). I'm just about to leave when I notice the cat behaving strangely once more in the middle of the garden. This time he has a doormouse cornered....\n\nI ran onto the lawn, grabbed the cat by the scruff of the neck, and lift it into the air... the cat has one final swipe at the doormouse, thumping it end over end several times... and is then distinctly disgusted with me for grabbing him in such a violent manner...\n\nAfter throwing the cat in the house, the mouse scuttles off into the undergrowth on it's own - having (surprisingly) not died of shock during it's capture by the cat.\n\nChopping the rest of the weekend out of this blog entry (we went to lunch in Henley, which was great), I heard the cat jumping around behind the sofa last night, and wondered what on earth he was up to... then we heard a squeek.\n\nOur damn cat had brought another mouse in from the garden, and had it cornered against the book shelves... once again we grabbed the cat, and then W kept an eye on the poor little mouse while I found a box to pick the mouse up... poor little thing. She took the mouse up the garden to release it, and apparently it shot off through the grass like a missile, so we're hoping it was okay...",
+      "creationDate": "2003-09-15T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "3D8BD8CB-E776-45F7-92CC-5A0640F0FF13",
+      "text": "# Tired And Painful\n\nThis morning I got out of the shower, got dressed and was busy wandering around the house finding stuff for work (as you do), when suddenly my neck stiffened up. I have no idea why.\n\nI thought it would go away after a minute or two, but it's now three hours later and my neck still hurts like hell. It's kind of a muscle at the back of my neck that hurts, and it's really annoying the hell out of me.\n\nThankfully I have a swivel chair at work so can sit here like a Dalek and yell at everybody to stop laughing at me.\n\nIn a moment I may attempt walking down to the kitchen to make a coffee - that will be a pain filled adventure I'm sure.\n\nToday at work I am the only person on helpdesk. Usually there are four or five of us to choose from when a call comes in, but through various reasons I'm alone. Bang went any hope of finishing the development for a job we're installing on Thursday...\n\nChanging subject, the other evening I was sat on the couch messing around on my laptop when my wife came bouncing in and sat down next to me to see what I was up to. I was halfway through explaining about C++ dereferenced pointers when I realised just how sad I was and started laughing... yes, I was spending the evening playing around with low level computer code... yes, I am interested in that kind of thing as a hobby... yes, I am a nerd.\n\nAh well. Guess I should go make that coffee.",
+      "creationDate": "2003-09-23T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "E8796AD6-8D45-4DC5-AA47-5F85EF0F0A66",
+      "text": "# Saturday Morning\n\nIt's 11am on Saturday morning and I'm looking forward to a relaxing weekend. Last night W had a \"Body Shop\" party, with a few friends round, so myself, my brother, and a mate from work drank, ate pizza, and played computer games all night.\n\nI think the most fun of the night was probably had playing \"Burnout 2\" on the PS2 - my little nephew laughed so much he couldn't speak...\n\nAnyway... it's Saturday!",
+      "creationDate": "2003-09-27T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "1A776BEF-1439-4120-804D-2366ACF3FDFC",
+      "text": "# One Of Those Weeks\n\nIt's been a strange week really.\n\nI've been rushing around doing bits and pieces of various projects for a while now - and suddenly I find that all those small projects are coming to an end, leaving me at a loss of what to get on with next.\n\nI guess the major event this week was a visit to client site in London on Thursday to complete a support call. The client had experienced a hardware failure, and what started as a bit of phone support turned into me being on-site for an entire day re-building and upgrading their system from scratch. Not fun. Especially when you want to go home and they are all in a meeting 5 floors below somewhere, and you haven't got a clue where they are.\n\nToday was spent sorting out a minor problem with the system I worked on in London. It took all morning just to build a virtual machine that looked something like theirs, then within two minutes I had replicated the problem and could continue working on it. Typical...\n\nANYWAYhave no plans.\n\nDoes this mean I can actually go swanning off wherever I want tomorrow? Hmmm... where could I go. The choices would be something along the lines of Wycombe (where I know they have a really good game shop now), or maybe even into London on the train... I'll wait and see I think.",
+      "creationDate": "2003-10-03T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "CF820125-E267-4F96-822D-9770469706E4",
+      "text": "# Its The Weekend\n\nIt's 10:45am on Saturday morning, and I'm sitting at the laptop starting work on a website for my cousin in San Francisco (reminder : I'm in the UK).\n\nMy cousin runs an organic produce delivery company in and around SF called \"Betty's Organics\". It was started by her mum, and so far has used an old Macintosh with FileMaker on it to keep the records in check. I'll be giving her a php/mysql website to do everything.\n\nAnyway - I have to go and organise some webspace, and start work on designing the database. I tend to hand-write websites rather than use any visual tools, so today will mostly be spent using textpad to sketch out the basics of the site - user accounts, orders and so on.\n\nAnybody that reads this blog must think my life is completely absorbed by computers and the IT industry - and I guess for the most part they would be right. Sad, isn't it. Perhaps I should make time to do other things in my life to have a bit of a change from time to time... I am my own worst enemy though - at the moment our spare room has a pile of books across the couch with titles like \"C++ Unleashed\".\n\nI might wander into town a bit later on to buy today's newspaper...\n\nWhat a boring blog entry...\n\np.s. I am cheating on the CLIX list... I'll switch the cheat off this morning. Can you believe I emailed them to tell them exactly what I was doing and they took NO notice?",
+      "creationDate": "2003-10-04T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "D9BF1689-8B1B-4DB5-BF83-44841F9D4F33",
+      "text": "# Mad Week On Site\n\nIt's been a pretty mad week once again.\n\nMonday and Tuesday were filled with the installation of Redhat Linux 9 on a test server in the office for an upcoming Linux development effort. We now have the grand total of 2 Linux servers intended for development, and a growing number of virtual machines.\n\nFollowing that, yesterday I was in Chesham visiting a client site to do a product upgrade, and today I was in Swindon finalising a change request at another client site.\n\nI think next week I'm scheduled for a visit into the city, and yet another visit to Amersham to do yet another change request.\n\nWhen will it stop?\n\nLast night we went to the pub for a meal - I had chicken fajitas, W had vegetable chimichanga. It was great - especially after a crappy day at work. Tonight we've been invited to a friend's house for a meal, and tomorrow night we've got friends over for a meal at our house \n\nIt really doesn't stop for us at the moment, does it...\n\nI think I get Saturday (daytime) to do what I want this week!",
+      "creationDate": "2003-10-09T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "C5FDF6B5-4048-431E-9B1F-9FB36EC2FADD",
+      "text": "# Busy Busy Busy\n\nLast night W was at her book group so I found myself on my own for the evening. I managed to spend 90% of it messing around with ThoughtCafe once more - adding new features and clearing up things that should have been fixed a long time ago.\n\nToday is another day on-site. I left the house at 6:55 to catch the 7:15 train from Marlow, changing at Maidenhead and then on to Paddington.\n\nI found myself falling asleep on the way to Paddington and had to stop reading my book (some trash by Anne McCaffrey that I picked up when I left the house this morning - about people with paranormal mental abilities or something).\n\nAnyway - after reaching Paddington, ambled into the tube station and caught my train to Blackfriars. I picked up a copy of \"The Metro\" on the way (the free Central London newspaper), and wondered if I could make a worse newspaper with less interesting \"news\" in it. The thought then struck me that perhaps \"The Metro\" is designed to be read from start to finish in the time it takes to go through about 5 or 6 subway stations... hmmm....\n\nQuick walk across the bridge at Blackfriars and a right turn (do you know where I am yet?) and I arrived at the client offices - only to find out that none of the three people I know were in yet.\n\nWhat is it with London and people turning up late for work? The rest of the country arrive before the time they are supposed to start, but not in London... oh no.\n\nAfter a quick chat with the people on reception I decided that maybe it would be a good idea if I dissappeared for half an hour and went and found somewhere to have some breakfast or something. After a couple of minutes I found just the place - a \"Pret a Manger\" just down the round. Chocolate Croissants are sooo good \n\nSo - here I am (finally) at a desk within a very large company on the south bank of the Thames, and I'm waiting for an FTP download of some software to complete. I have nothing to do until that is complete... aarrggghhh.",
+      "creationDate": "2003-10-14T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "AB70025A-18F2-4DA9-82BB-D467A421F93A",
+      "text": "# Very Very Tired\n\nToday is Friday, and I am extremely tired. What's worse, I have no prospect of a break until next weekend. Do you ever feel like the world is becoming unfair?\n\nLast week I was on-site twice, and this week I have been working on-site twice again. Each site visit was a full day, which really means half a day before and after too, to prepare for the visit, and to document results on return. Usually working on-site means getting there for the start of office hours, so I leave home at 7am. Add to that the fact that we've been out or busy every night this week, that we will again be busy tonight, and that we are going to be out all weekend, and you start to understand the tone of this entry.\n\nI keep fighting myself - on Tuesday night we went out with friends for a curry, and I actually found myself apologising to them early in the evening in case I looked tired or yawned (I had been working in London all day).\n\nTonight we are having friends round for dinner. I know it sounds awful, but I'm really not looking forward to it. I'm just so tired.\n\nI would really love to spend the weekend doing what I want to do (working on a new version of my open source diary solution), but already I am spending Saturday re-installing my wife's parent's computer, and on Sunday I am helping to marshall the Abingdon Marathon.\n\nWhen will it be my turn to do what I want?",
+      "creationDate": "2003-10-17T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "FAFA9762-D3C8-4D84-9D74-226ADE76F24D",
+      "text": "# A Sad Day\n\nToday is a pretty sad day. We have decided to pull the plug on the ThoughtCafe website when the current hosting agreement runs out.\n\nI'll write some more later...",
+      "creationDate": "2003-10-28T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "42AEC40B-11D1-4901-89B3-82DA2F763AB2",
+      "text": "# Nanowrimo\n\nFor some ridiculous reason, one of my best friends on the internet has talked me into taking part in the nanowrimo competition.\n\nBasically, nanowrimo (www.nanowrimo.org) is a yearly gathering of lunatics who try and write a 50,000 word novel inside one calendar month.\n\nI've always wanted to write a novel, and this seems like a good excuse to do something a bit mad (I think Tony Hawks defined it as ATDSABS syndrome - \"about to do something a bit silly\" syndrome). Looking at it now, you only have to pump out a couple of thousand words a day to meet the deadline, but I guess if you miss a day or two then you suddenly find yourself with ten thousand to write at one sitting (not easy!).\n\nAnyway - W has promised to buy me a Nanowrimo t-shirt if I successfully complete my book, so I have to do it now \n\nOf course it's sods law that work will go mad over the next month, leaving me with little or no time to write my book. I guess I'll have to get up early to do an hour's writing or something...\n\nAnyway... I have two days to come up with a decent plot.\n\nIf you're interested in following the story as I write it, I'll be posting here in the blog probably, and the body text of the story will be available at the following url;\n\nhttp://www.pluggedout.com/unclematter",
+      "creationDate": "2003-10-28T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "76077699-C8D4-43BB-AF8A-6B6107E68FE3",
+      "text": "# Home Alone\n\nI have stayed off work today after losing the battle with an ear infection. I thought about going in at lunchtime, and started to get ready - but bent down to do my shoes up and nearly fell over... so cycling to work (I ride a mountain bike in) wouldn't have been the safest thing in the world to do.\n\nI've had my balance affected before, and know if I have a bath tonight and keep taking the nurofen, by tomorrow it should be much better. I know my balance won't be exactly brilliant for a few days though.\n\nIt kind of makes you feel like a fraud though - there appears to be nothing outwardly wrong with you - until you bend over, and look like you've had a skinfull...\n\nTo while away the time today I have been working on some programming that we've been looking at in the office, and on my blog script. I'm still a bit stumped on the decision of going to templates or not - it will mean a huge overhead on the programming to pull bits and pieces in and re-tool them to suit. It's not a huge problem to make people change the PHP scripts though - and the new version in much easier to change than it was previously.\n\nOh - I pulled out of the Nanowrimo thing. I decided that I would rather have a break from \"commitments\" on the internet. Taking part in nanowrimo was a bit stupid really - just at the time I was letting go of ThoughtCafe, I nearly got involved in another huge project. At least I didn't start, so it's not like something I didn't finish.\n\nOh well. I guess if I pull the stops out and package this script up nicely, I can pretty safely make it available for download. It probably needs a fair bit of documentation though.",
+      "creationDate": "2003-11-03T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "3A7735A7-6C4A-49E7-85F4-2CB432A1C31C",
+      "text": "# New Blog Version Out\n\nI have finally released the first beta of the re-written Blog script \n\nYou can download Version 1.50 beta from the following URL;\n\nhttp://www.pluggedout.com/projects_blog.php\n\nThere is a demo available here...\n\nhttp://www.pluggedout.com/blog150b\n\nI think I'll go and collapse in a heap somewhere now...",
+      "creationDate": "2003-11-03T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "39C7970E-8E14-4109-A41E-6B3B4481A791",
+      "text": "# Getting There\n\nI'm spending my lunchtime at work changing the layout of the PluggedOut website a bit - making a \"Projects\" page.\n\nI have also fixed the bugs in the comment add function. It wasn't working because I was stupid basically.... the downloadable 1.50 beta is now fixed.",
+      "creationDate": "2003-11-05T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "16287743-DCCC-491F-A94B-C2BB1A28A48D",
+      "text": "# Running Without Moving\n\nAs you will have noticed if you have visited via the \"blog\" URL, I am in the process of re-writing the Blog script, and have now ditched the old version. Over the next few days I will be adding tons more functionality to it and getting closer to a release version.\n\nPart of the job of releasing software for other people to use includes documenting all the source code properly - unfortunately I have not had time to do that yet, but hopefully tonight should see that put right.\n\nI had some great news yesterday - I did some freebie development work for some guys at work and in return they bought me a ThinkGeek voucher... can't wait to go buy some cool rubbish \n\nThere are so many things going on with me at the moment that it's getting a tiny bit stupid. Working on the infernal blog script, getting ready for christmas, going to firework parties, trying to get the garden ready for winter (which involves a battle where we dig bulbs into the ground and the local squirrels dig them straight back up) and so on...\n\nToday at work things are going okayish. I have been working on an integration project for one of our clients that will (eventually) fit into their workflow system. When I started work on it, the whole thing seemed straightforward, but the source code has now stretched out to about 350 lines - and growing...\n\nApparently we start installing the various bits of it tomorrow, and go through it with their staff on Monday. Have to see how it goes.",
+      "creationDate": "2003-11-06T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "BE064D7D-2EFE-43DE-975B-1F6A56D244C7",
+      "text": "# Mayhem\n\nI think today will go down in my memory as one of those days you would prefer you hadn't had.\n\nI got up this morning with a pretty bad cold (which I've still got), and went into work basically because they are short handed and can't afford to be without me.\n\nAnyway - for the last week I have been working on a change request for the workflow at one of our more important clients. This workflow currently has many thousands of \"items\" floating around, being handled by well over a hundred staff...\n\nTo cut a long story short, in the middle of the afternoon, after placing the various pieces of the jigsaw I had developed into place, I made a slight mistake with one of the pieces - meaning that the entire contents of the main workflow stage started travelling across the workflow and back.\n\nLuckily I realised what was happening before I did anything too dangerous, and just let it get on with it - but when you think in terms of how many people are relying on the code you are writing, it doesn't bare thinking about.\n\nTonight on the way home I couldn't get my mind off it, and even now (after spending this evening working on the Blog script) I still find my myself wandering off to think about the various pieces of wreckage that need fixing tomorrow.\n\nFor what it's worth, there is a new version of the Blog script available for download now - I went through and documented a lot of the code tonight, and replaced the session variables I had been using to avoid some errors with other clients.\n\nPerhaps now will be a good time to stop typing and go take part in real life for an hour before another day of mayhem starts...",
+      "creationDate": "2003-11-11T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "F36B65B3-5538-4A3E-BF0B-C62F31F7D08B",
+      "text": "# Sick Again\n\nI came home from work at lunchtime today - W is off work too; we both have pretty bad colds. When I got in she was quite shocked - apparently I have dark lines under my eyes.\n\nWhen I got up this morning I really didn't want to go into work, but felt I had to because of the change request I've been working on for one of our clients. Software development seems to be one of those jobs where you retreat inside yourself so much when you are really absorbed in what you are doing that you don't notice so much if there is anything wrong with you.\n\nThis morning was like that - even though I felt dreadful when I arrived at work, once I was sat down and working I forgot all about feeling bad - except of course when I finished and sat back I felt even worse  Last night was like that too - even though I tried to block work out of my head, I found myself wandering about it... then I woke up in the early hours of this morning and it was still there, picking away at the back of my mind.\n\nAnyway - I'm sat here in the front room at home with the laptop, it's sunny but cold outside, and I'm wondering what to do to this blog script next. It would be really tempting to develop the template system that I've been promising for so long (that would essentially move the whole thing towards version 2), but it's a huge undertaking and I just don't feel well enought to even make a start.\n\nHey - while surfing around on the web just now I checked out Nik Kershaw's website. Apparently he's pulling out of the music recording business again - mainly because people keep trying to book him for 80's tribute concerts rather than for his current music.... like the man says himself - even he's not that desperate ",
+      "creationDate": "2003-11-12T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "44DE5A59-72B4-47BE-99B9-A500F2FD6F9A",
+      "text": "# I Am The Chessmaster \n\nI am a little enthused at the moment.\n\nI just won a game of chess on Yahoo! Chess (go visit games.yahoo.com to try it out). I was playing this git who did an opening book trick to take a piece off me at the start of the game. I thought \"right then you bastard - let's see how good you are...\" - I checkmated him by the 23rd move \n\nHere's the score of the game for those that are remotely interested:\n\n;Title: Yahoo! Chess Game ;White: payvje ;Black: kafooey ;Date: Thu Nov 20 05:12:25 PST 2003\n\n 1. e2-e4 e7-e5 2. d1-h5 g7-g6 3. h5xe5+ d8-e7 4. e5xh8 e7xe4+ 5. g1-e2 e4xc2 6.     h8xg8 d7-d6 7. g8xh7 c8-f5 8. h7-h4 f5-d3 9. h4-g3 d3xe2 10. g3-e3+ f8-e7     11. e3xe2 c2xc1+ 12. e2-d1 c1-c5 13. d1-f3 c5-c1+ 14. f3-d1 c1-c5 15. d1-f3     c5-c1+ 16. e1-e2 c1-c4+ 17. d2-d3 c4-c2+ 18. e2-e1 c2-c1+ 19. e1-e2 c1-c2+     20. e2-e3 e7-g5+ 21. e3-e4 c2-c6+ 22. e4-d4 c6-c5+ 23. d4-e4 c5-e5++\n\nIf you save the above into a text file, you can then load it into something like WinBoard.",
+      "creationDate": "2003-11-20T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "BFDDCBBE-95CE-4069-8543-3919C1CA11E3",
+      "text": "# Ssx Tricky Rules\n\nI have spent the last few evenings taking it in turns with W to play SSX Tricky on the PS2. I had never bought an extreme sport game before, and only really bought this one because W hasn't been well and I thought it would cheer her up a bit. What an amazing game it is!!\n\nFor those that have no idea, SSX Tricky is a snowboarding game. You get to 'play' one of a number of characters who take part in various snowboarding events - things like racing down huge hill courses (through forests, rock formations, and even snow filled city streets), doing \"showoff\" runs for points, or straightforward \"free runs\" where you get to prat around.\n\nI have to admit that we have both become addicted to it. I have never known a game cause so many flash fits of temper (from me) when I have been beaten by it. It's got the worst \"one more go\" factor of any game I've ever played \n\nAside from messing around with the PS2, I have been at something of a loss over the last few weeks for something to do with myself. Now the ThoughtCafe website is essentially being wound down, I have to keep resisting the urge to start another web project - I have promised that I will take part in the web for a change rather than run some of it \n\nI guess that's why I'm playing chess again. I seem to play chess in the winter anyway ",
+      "creationDate": "2003-11-20T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "A1E00303-A395-4E1E-8C08-7D8F4E507088",
+      "text": "# I Just Lost Again\n\nI just setup an account on ICC (Internet Chess Club) and subjected myself to a number of wipeouts playing chess... admittedly I was only playing 5 or 6 minute games, but my chess playing abilities seem to be far less than they were five or so years ago when I used to play regularly.\n\nI'm not really sure why I'm so crap either - I just seem to be missing obvious combinations and leaving pieces hanging all the time...\n\nOh well. It won't stop me playing, but I just know it's going to take me a while to get into playing well again. Perhaps I should forget about playing speed chess for a while and just play the computer. The other day I bought Chess Tiger for my palm, so I can play that when I'm waiting for my computer at work to compile or rar a vm...\n\nI keep looking at the basic layout of this blog system and thinking about doing a new template... something Manga themed maybe.\n\nI guess I should go have a look at other blog systems and see how they have decorated them.",
+      "creationDate": "2003-11-26T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "F4EA419F-226F-4B5C-97D4-3D2FDF0FDF1C",
+      "text": "# Where Did The Year Go\n\nIt's the third of December and this is my first blog entry for a couple of weeks. I guess I should make a bit more of an effort really...\n\nI've been playing chess quite a bit lately (no news there then...), and picking away at my \"Content Management System\" - I am writing a website creation tool that people will be able to install on their website, and then allow non skilled people (like salesmen, etc) to update the content of the site themselves - avoiding the costs usually associated with it.\n\nOver the last few weeks work has been quite slow. I am in-between major projects so have no long term aims. While it's good to have some time for research and development for a change, I know if some of the recent contract bids come in, the new year is going to be hell on earth.\n\nAnyway - I'm supposed to be packing up fairly soon to go home, so will write something tomorrow if I get a chance.",
+      "creationDate": "2003-12-03T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "72D9BCC6-3B36-4454-966A-98F7656845A3",
+      "text": "# Love Actually Is All Around\n\nI seem to find less and less time to put entries into my Blog... to be honest I think it has something to do with me being a Pisces. I tend to drift like the wind most of the time - becoming interested in doing one thing, then moving on to the next, and re-visiting interests every so often.\n\nAnyway... what did I get up to this weekend?\n\nOn Saturday myself and W spent most of the morning out in the Garden - I dug a trench for the hedgerow we are planting, and W put them in place. I was dreading digging the trench, but with all the wet weather we have been having it was really easy.\n\nThe one problem I did have was launching the shovel into the ground at one point to break through a root, and hitting stone... how I didn't break my wrist I'll never know. It hurt like hell for the next couple of days.\n\nLast night we went out to the cinema to see \"Love Actually\". I thought it was fantastic, but then I always like soppy films. It's a very good \"Christmas\" movie, with a stellar cast. Bill Nigh stole the show as \"Billy Mack\", and the guy from \"The Office\" was fantastic in it too... I could go on an on, but I don't want to wreck the film for others who go and see it.\n\nAnyway - nearly time to go home!",
+      "creationDate": "2003-12-08T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    },
+    {
+      "uuid": "B05ABFF8-E40B-4953-BFE2-97682E75F7BF",
+      "text": "# No News Today\n\nWoudln't it be great if you switched the news on one day, and the newsreader said \"There is no news today, so we will be showing Will and Grace an hour early.\"\n\nDoes it annoy you that all the news is bad news? Is good news not newsworthy any more? Could they not tell us about something great that has happened, or something unusual? Why does all the news have to be disasters? Do they not realise that if they didn't report on terrorists then they would lose the point to terrorising anybody? (i.e. nobody would take any notice).\n\nI'm in a bit of a funny mood really, aren't I. Oh well.\n\nThis weekend we went out to dinner with my aunt and cousin to celebrate her 18th birthday. Following that we stayed over at my brother's house on Friday night, then throughout the day on Saturday (I built my nephew some excellent planes and ships out of lego, even if I do say so myself).\n\nWe got home late on Saturday and then W had a bit of a christmas cooking frenzy - hundreds of mince pies  While she was doing that I went into town and got more groceries, some flowers to put around the house, and the new Simpsons PS2 game for us to play. I'm not the biggest fan of the simpsons, but she is so it was great to see her laughing like a drain at the game - even I have to admit it has it's moments.\n\nThis week at work is really quiet. I'm expecting to get called to go on-site at one of our clients any day this week, but we have heard nothing from them all week. Have to see how it goes.\n\nHilight of today has been the discovery that the DjVu technology has been made open-source. We can therefore put the engine into our own stuff completely free of charge!! (which will help PostXPress no end).\n\nOh - while messing around on the internet at lunchtime I found a site called freewarepalm.com - guess who filled his palm organiser up with games and crap \n\nI guess in closing I should mention that I have done nothing to the blog or CMS projects in the last week... it's good to see that people seem to be using Blog though ",
+      "creationDate": "2003-12-16T12:00:00Z",
+      "modifiedDate": "2025-07-25T22:05:19Z",
+      "timeZone": "America/New_York",
+      "starred": false,
+      "tags": [
+        "blog",
+        "imported"
+      ],
+      "weather": {},
+      "location": {}
+    }
+  ]
+}
