@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "2026-02-19 Three Years"
             }
+          },
+          {
+            "id": "74e50b717ecd3db2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-02-20 It just keeps getting worse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-20 It just keeps getting worse"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,10 +216,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a309453e8b568e9a",
+  "active": "74e50b717ecd3db2",
   "lastOpenFiles": [
-    "2026/2026-02/2026-02-18 Twenty Five Years.md",
     "2026/2026-02/2026-02-19 Three Years.md",
+    "2026-02-20 It just keeps getting worse.md",
+    "2026/2026-02/2026-02-18 Twenty Five Years.md",
     "2026/2026-02/2026-02-16 The re-discovered country.md",
     "Areas/Journal/2026-02-16 Monday.md",
     "Areas/Writing/Blog/2026/2026-02/2026-02-16 The re-discovered country.md",
@@ -238,7 +253,6 @@
     "Resources/simple-shortcuts-guide.md",
     "Resources/shortcuts-import-methods.md",
     "2026/2026-01/2026-01-01 Reconnecting.md",
-    "2026/2026-01/2026-01-02 Breakfast Bookshops and Stranger Things.md",
-    "2026/2026-01/2026-01-03 The Lurgy.md"
+    "2026/2026-01/2026-01-02 Breakfast Bookshops and Stranger Things.md"
   ]
 }
