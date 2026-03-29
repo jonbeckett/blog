@@ -20,4 +20,6 @@ It doesn’t help that social networks have essentially been killed by AI genera
 
 It’s solyent green, isn’t it.
 
-Maybe if I go make a coffee, and put something hopeful on the record player, the world will right itself for a few minutes. Let’s hope.
+Maybe if I go make a coffee, and put something hopeful on the record player, the world will right itself for a few minutes. Let's hope.
+
+#areas/writing/blog/2026
